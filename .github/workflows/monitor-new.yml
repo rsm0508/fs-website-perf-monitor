@@ -71,6 +71,3 @@ jobs:
           git add data/ reports/
           git diff --staged --quiet || git commit -m "chore(perf): new/changed URLs tested"
           git push
-      - name: Trigger dashboard build
-        if: steps.select.outputs.count != '0'
-        run: gh workflow run build-d

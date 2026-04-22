@@ -39,9 +39,3 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "chore(perf): daily URL discovery"
           git push
-      - name: Trigger new-URL run
-        if: success()
-        run: |
-          gh workflow run monitor-new.yml
-        env:
-   
