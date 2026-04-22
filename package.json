@@ -1,0 +1,27 @@
+{
+  "name": "fullsession-perf-monitor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synthetic performance monitoring for fullsession.io",
+  "type": "module",
+  "scripts": {
+    "init-db": "node scripts/utils/db.js --init",
+    "discover": "node scripts/discover-urls.js",
+    "select": "node scripts/select-urls.js",
+    "run": "node scripts/run-lighthouse.js",
+    "detect-regressions": "node scripts/detect-regressions.js",
+    "notify": "node scripts/notify.js",
+    "build-dashboard": "node scripts/build-dashboard.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "better-sqlite3": "11.3.0",
+    "chrome-launcher": "1.1.2",
+    "fast-xml-parser": "4.5.0",
+    "lighthouse": "12.2.1",
+    "nodemailer": "6.9.15",
+    "sharp": "0.33.5"
+  }
+}

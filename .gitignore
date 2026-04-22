@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+.env
+# Do NOT ignore data/, reports/, dashboard/ — these ARE the source of truth

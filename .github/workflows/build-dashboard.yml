@@ -1,0 +1,47 @@
+name: Build Dashboard
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['Monitor Tier 0', 'Monitor Core', 'Monitor Posts', 'Monitor New URLs', 'Recheck Flagged']
+    types: [completed]
+
+concurrency:
+  group: perf-monitor-dashboard
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm install; fi
+      - name: Build dashboard
+        run: npm run build-dashboard
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

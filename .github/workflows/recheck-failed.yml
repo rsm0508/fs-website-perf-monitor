@@ -1,0 +1,75 @@
+name: Recheck Flagged
+
+on:
+  schedule:
+    - cron: '45 * * * *'  # hourly at :45
+  workflow_dispatch:
+
+concurrency:
+  group: perf-monitor-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+      - uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm install; fi
+      - name: Init DB if missing
+        run: |
+          if [ ! -f data/perf.db ]; then npm run init-db; fi
+      - name: Select flagged URLs (only those queued > 24h ago)
+        id: select
+        run: |
+          # select-urls.js emits 3 lines per URL (median-of-3)
+          node scripts/select-urls.js --mode recheck > /tmp/urls.txt
+          echo "count=$(wc -l < /tmp/urls.txt)" >> $GITHUB_OUTPUT
+      - name: Exit if nothing flagged
+        if: steps.select.outputs.count == '0'
+        run: echo "No flagged URLs. Exiting."
+      - name: Run Lighthouse (retest)
+        if: steps.select.outputs.count != '0'
+        run: cat /tmp/urls.txt | node scripts/run-lighthouse.js --retest
+      - name: Detect regressions (confirms or clears)
+        if: steps.select.outputs.count != '0'
+        run: node scripts/detect-regressions.js
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+      - name: Notify
+        if: steps.select.outputs.count != '0'
+        run: node scripts/notify.js
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          SMTP_HOST:           ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:           ${{ secrets.SMTP_PORT }}
+          SMTP_SECURE:         ${{ secrets.SMTP_SECURE }}
+          SMTP_USER:           ${{ secrets.SMTP_USER }}
+          SMTP_PASS:           ${{ secrets.SMTP_PASS }}
+          SMTP_FROM:           ${{ secrets.SMTP_FROM }}
+          NOTIFY_EMAIL:        ${{ secrets.NOTIFY_EMAIL }}
+          SLACK_WEBHOOK_URL:   ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      - name: Commit results
+        if: steps.select.outputs.count != '0'
+        run: |
+          git config user.name "perf-monitor-bot"
+          git config user.email "actions@github.com"
+          git add data/ reports/
+          git diff --staged --quiet || git commit -m "chore(perf): retest of flagged URLs"
+          git push
