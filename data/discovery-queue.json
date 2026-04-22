@@ -1,0 +1,1189 @@
+{
+  "ran_at": "2026-04-22T21:34:04.167Z",
+  "pages_count": 37,
+  "posts_count": 265,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/customer-success/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/plg-activation/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/growth-marketing/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/high-stakes-forms/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/checkout-recovery/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/product-management/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/user-onboarding/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/engineering-qa/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/book-a-demo/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-clarity/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-contentsquare/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-luckyorange/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-mouseflow/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-fullstory/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-hotjar/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/integrations/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/mobile-session-replay/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/product/errors-alerts/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/safety-security/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/product/session-replay/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/product/lift-ai/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/product/heatmaps/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/product/funnels-conversions/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/product/feedback/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/fullsession-vs-logrocket/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/product/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/compare/",
+      "tier": "core"
+    },
+    {
+      "url": "https://www.fullsession.io/solutions/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/pricing/",
+      "tier": "tier0"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-ecommerce-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-inspectlet/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-heatmap-tracking/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/vwo-competitors-and-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-bigcommerce/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-shopify/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-wix/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/pendo-competitors-and-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-website-monitoring-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/churn-rate-vs-retention-rate/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-platform/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/decibel-insight-vs-hotjar/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/e-commerce-marketing-strategies/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-trends/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-calculate-conversion-rate/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-wordpress/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/nps-detractors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/get-customer-feedback/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-script-on-your-website/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mouse-heatmap/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-alternatives-to-google-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-usability-testing-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-cro-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-satisfaction-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/response-bias/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-relaunch/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/middle-of-funnel-marketing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-metrics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmap-analysis-for-landing-pages/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-software-plg-saas/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/rbac-for-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmap-insights-checkout-optimization/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/onboarding-funnel-drop-off-diagnosis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/what-is-session-replay/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-fullsession-saas/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/data-masking-best-practices/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/use-session-replay-to-reduce-mttr/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavior-analytics-saas/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/demographic-questions-for-survey/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/open-ended-questions/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/psychographic-segmentation/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/qualitative-questions-examples/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/quantitative-data/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/survey-question-examples/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-read-a-heatmap/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/exit-rate-vs-bounce-rate/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/categorical-vs-quantitative/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-management/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-retention-rate/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-real-user-monitoring-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-alternatives-plg-saas-pilot-framework/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/choose-saas-analytics-tools-without-overlap/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/conversion-funnel-analysis-workflow/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-heatmap-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/posthog-alternatives-and-competitors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-choose-a-session-replay-tool-and-when-to-pick-fullsession/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/top-website-feedback-tools-marketing-agencies/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-analytics-framework-metrics-tools-prioritization/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/fullstory-alternative-saas/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/form-abandonment-analysis-how-teams-identify-and-validate-drop-off-causes/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/5-posthog-alternatives-and-competitors-to-test-this-year/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/25-website-optimization-tools-to-boost-site-performance-by-100/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/9-best-ux-heatmap-tools-to-optimize-your-websites-and-apps/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/fullstory-competitors-10-alternatives-for-5x-deeper-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/top-9-behavioral-analysis-software-tools-of-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/we-tried-hotjar-vs-microsoft-clarity-heres-our-feedback/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-audit-the-ultimate-guide-for-website-owners/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-analytics-metrics-to-product-decisions/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics-decision-making-system/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/form-abandonment/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-onboarding-best-practices-prioritization/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/frontend-error-monitoring-tools-triage/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-behavior-patterns-framework/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/checkout-friction-heatmap/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/checkout-ux-issues-framework/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/cart-abandonment-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-heatmaps-prioritized-cro-tests/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/compare-session-replay-solutions-ux-optimization-2/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-engagement-metrics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/choose-session-replay-web-performance/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/5-best-customer-journey-analytics-software-solutions-in-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/web-analytics-tools-comparison-top-9-options-in-2026-2/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/web-analytics-tools-comparison-top-9-options-in-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-experience-optimization-explore-the-latest-techniques-for-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-appointment-booking-issues/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/quantummetric-vs-glassbox/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-loops/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-engagement/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/conversion-funnel/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/qualitative-data/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-acquisition-funnel/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/in-app-feedback/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/marketing-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/macro-conversion/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-researcher/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/web-design-feedback/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/questionnaire-vs-survey/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/saas-metrics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-conversion-funnel-2/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/content-design/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/concept-testing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/categorical-data/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/event-tracking-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-research-interviews/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-nps-survey-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-retention/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/landing-page-optimization-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/market-segmentation-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/fullstory-alternatives-framework/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-experience-analytics-completion-rate/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/checkout-conversion-benchmarks-interpretation/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-vs-fullsession-time-to-fix/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/rage-clicks-triage-validate-fixes/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/introducing-lift-ai/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/digital-customer-experience-trends/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/spa-heatmaps-route-changes-view-identity-validation/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-experience-optimization/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-feedback-tool/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-usage-analytics-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heap-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-marketing-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-ux-research-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-retention-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/survey-monkey-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ui-design-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/conversion-rate-optimization-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavior-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/use-heatmaps-to-improve-saas-activation/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-insurance-claims-drop-off/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/main-purpose-session-replay/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/reduce-cart-abandonment-framework/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-optimization-integration-qa/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-experience-analytics-software-evaluation/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-measure-roi-ux-improvements/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/quantify-revenue-at-risk-ux-bugs/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics-tools-funnel-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/close-ended-questions/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/qualitative-vs-quantitative-data/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/digital-customer-experience/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmaps-vs-session-replay/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/crazy-egg-vs-microsoft-clarity-activation-workflow/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mobile-session-replay-guide/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-customer-journey-analytics-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/conversion-funnel-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/rage-clicks-vs-dead-clicks-difference/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/onboarding-funnel-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/dropdown-click-not-working/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-website-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/click-heatmap-vs-scroll-heatmap-vs-move-heatmap/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-optimization-strategies/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/quantify-revenue-loss-from-friction-heatmaps/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/what-is-a-heatmap/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-recordings-improves-digital-customer-experience/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavioral-analytics-for-activation/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-javascript-error-tracking/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-conversion-optimization-system/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/shopify-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-optimization-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg-vs-mouseflow-vs-fullstory/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-data-management/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/client-satisfaction-questionnaire/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-survey-questions/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-nps-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-collection-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/click-maps/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/amplitude-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/rage-clicks/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/digital-experience-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/digital-experience-analytics-the-ultimate-guide-for-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-insight-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/smartlook-vs-hotjar/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-audit/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/lucky-orange-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-fullstory/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-experience-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/increase-form-completion-rate-framework/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/error-state-heatmaps-spot-ui-breaks-before-users-churn/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mobile-vs-desktop-heatmaps-why-it-matters/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmaps-for-checkout-optimization-saas-vs-ecommerce/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmaps-and-ab-testing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/blog-heatmaps-conversion-guide/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmaps-for-conversion-from-insight-to-a-b-wins/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/fullsession-vs-hotjar-heatmaps/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/smartlook-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/cro-marketing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/saas-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-research-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-feedback/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/contentsquare-competitors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-adoption/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-get-more-conversions-on-shopify/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/google-analytics-vs-amplitude/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-mapping-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavioral-analysis-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/funnel-drop/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-experience-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mouseflow-vs-vwo/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/scroll-maps/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/cx-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-feedback-form/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-testing-vs-usability-testing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/measuring-customer-experience/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-google-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mvp-testing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/predictive-customer-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/crazy-egg-competitors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/record-website-visitors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-website-visitor-tracking-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-tracking/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-ux-testing-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mixpanel-vs-google-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mixpanel-vs-amplitude/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/nps-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/top-of-funnel-marketing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/form-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-conversion-optimization/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavioral-targeting/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/cro-for-mobile/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-report/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-issues/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heat-map-examples/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/click-tracking/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-churn-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mobile-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-did-you-hear-about-us/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/real-time-customer-analytics/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-experience-analysis/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/userzoom-vs-usertesting/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/digital-experience-monitoring/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-analytics-software-for-ecommerce/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-adoption/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/web-analytics-tools-comparison/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-click-tracking-software/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-test-product-market-fit/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-centric-marketing-strategy/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-persona-research/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/cro-tool-categories/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-tracking/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/top-5-posthog-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ai-interpretation-layer-saas-survives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-pricing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-win-10-activator/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mixpanel-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-recording-replay-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/does-hotjar-slow-down-my-site/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/lucky-orange-vs-hotjar/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-heatmap-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/fullstory-competitors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-recording-replay/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-behavior-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-vs-fullstory/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mouseflow-alternative/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ux-analytics-tool/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-review/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-alternatives/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-microsoft-clarity/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg/",
+      "tier": "post"
+    }
+  ],
+  "changed": [],
+  "deactivated": 0
+}
