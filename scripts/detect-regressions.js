@@ -143,32 +143,86 @@ function queueRetest(url, device, isTier0) {
   `).run(url, dev, new Date().toISOString());
 }
 
+// Label color map used when auto-creating missing labels in the repo.
+const LABEL_COLORS = {
+  perf: 'd73a4a',
+  'perf:fail': 'b60205',
+  'perf:regression': 'e99695',
+  'perf:js-error': 'fbca04',
+  'tier:tier0': '5319e7',
+  'tier:core': '1d76db',
+  'tier:post': 'c5def5',
+  'tier:other': 'bfdadc',
+};
+
+function ensureLabels(labels) {
+  if (!CAN_OPEN_ISSUES) return;
+  for (const name of labels) {
+    const color = LABEL_COLORS[name] || 'cccccc';
+    try {
+      execSync(
+        `gh label create ${JSON.stringify(name)} --color ${color} --force`,
+        { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] },
+      );
+    } catch (_) {
+      // Fall back to plain create without --force for older gh versions.
+      try {
+        execSync(
+          `gh label create ${JSON.stringify(name)} --color ${color}`,
+          { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] },
+        );
+      } catch (_) {
+        // Label likely already exists; ignore.
+      }
+    }
+  }
+}
+
+function writeTmpBody(body) {
+  const p = `/tmp/perf-issue-body-${Date.now()}-${Math.random().toString(36).slice(2, 8)}.md`;
+  fs.writeFileSync(p, body, 'utf8');
+  return p;
+}
+
 function openIssue(title, body, labels) {
   if (!CAN_OPEN_ISSUES) {
     console.log(`[DRY RUN] Would open issue: ${title}`);
     return null;
   }
+  let bodyFile;
   try {
+    ensureLabels(labels);
+    bodyFile = writeTmpBody(body);
     const labelArgs = labels.map((l) => `--label ${JSON.stringify(l)}`).join(' ');
-    const cmd = `gh issue create --title ${JSON.stringify(title)} --body ${JSON.stringify(body)} ${labelArgs}`;
+    const cmd = `gh issue create --title ${JSON.stringify(title)} --body-file ${JSON.stringify(bodyFile)} ${labelArgs}`;
     const out = execSync(cmd, { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] }).trim();
     const match = out.match(/\/issues\/(\d+)/);
     return match ? Number(match[1]) : null;
   } catch (err) {
     console.error('Failed to open issue:', err.message);
     return null;
+  } finally {
+    if (bodyFile) {
+      try { fs.unlinkSync(bodyFile); } catch (_) { /* ignore */ }
+    }
   }
 }
 
 function commentIssue(issueNumber, body) {
   if (!CAN_OPEN_ISSUES || !issueNumber) return;
+  let bodyFile;
   try {
-    execSync(`gh issue comment ${issueNumber} --body ${JSON.stringify(body)}`, {
+    bodyFile = writeTmpBody(body);
+    execSync(`gh issue comment ${issueNumber} --body-file ${JSON.stringify(bodyFile)}`, {
       encoding: 'utf8',
       stdio: ['ignore', 'pipe', 'pipe'],
     });
   } catch (err) {
     console.error('Failed to comment on issue:', err.message);
+  } finally {
+    if (bodyFile) {
+      try { fs.unlinkSync(bodyFile); } catch (_) { /* ignore */ }
+    }
   }
 }
 
