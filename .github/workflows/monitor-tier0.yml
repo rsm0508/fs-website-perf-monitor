@@ -12,6 +12,7 @@ concurrency:
 permissions:
   contents: write
   issues: write
+  actions: write
 
 jobs:
   monitor:
@@ -72,6 +73,4 @@ jobs:
           git push
       - name: Trigger dashboard build
         if: steps.select.outputs.count != '0'
-        run: gh workflow run build-dashboard.yml
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run build-d

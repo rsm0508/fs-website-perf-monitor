@@ -12,6 +12,7 @@ concurrency:
 permissions:
   contents: write
   issues: write
+  actions: write
 
 jobs:
   discover:
@@ -43,4 +44,4 @@ jobs:
         run: |
           gh workflow run monitor-new.yml
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   
