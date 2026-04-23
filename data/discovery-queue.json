@@ -1,8 +1,69 @@
 {
-  "ran_at": "2026-04-22T21:41:59.468Z",
+  "ran_at": "2026-04-23T08:05:36.022Z",
   "pages_count": 37,
   "posts_count": 265,
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-fullstory/",
+      "tier": "post",
+      "prior": "2026-04-01T10:14:09+00:00",
+      "current": "2026-04-23T06:36:52+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/web-analytics-tools-comparison/",
+      "tier": "post",
+      "prior": "2026-04-07T12:31:20+00:00",
+      "current": "2026-04-23T06:53:08+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-google-analytics/",
+      "tier": "post",
+      "prior": "2026-04-07T11:52:53+00:00",
+      "current": "2026-04-23T07:01:49+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-inspectlet/",
+      "tier": "post",
+      "prior": "2024-12-22T10:25:30+00:00",
+      "current": "2026-04-23T07:11:33+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/smartlook-vs-hotjar/",
+      "tier": "post",
+      "prior": "2026-03-30T10:18:02+00:00",
+      "current": "2026-04-23T07:21:41+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/lucky-orange-vs-hotjar/",
+      "tier": "post",
+      "prior": "2026-04-20T06:52:51+00:00",
+      "current": "2026-04-23T07:23:45+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
+      "tier": "post",
+      "prior": "2026-04-14T16:28:23+00:00",
+      "current": "2026-04-23T07:32:14+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg-vs-mouseflow-vs-fullstory/",
+      "tier": "post",
+      "prior": "2026-03-20T11:07:31+00:00",
+      "current": "2026-04-23T07:45:00+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/decibel-insight-vs-hotjar/",
+      "tier": "post",
+      "prior": "2025-12-17T10:50:30+00:00",
+      "current": "2026-04-23T07:53:50+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/scroll-maps/",
+      "tier": "post",
+      "prior": "2026-04-07T11:46:38+00:00",
+      "current": "2026-04-23T08:00:10+00:00"
+    }
+  ],
   "deactivated": 0
 }
