@@ -1,11 +1,13 @@
 # Regressions detected
 
-Ran at 2026-04-23T18:47:24.580Z
+Ran at 2026-04-23T19:58:21.117Z
 
-- REGRESSION https://www.fullsession.io/solutions/growth-marketing/ (mobile): Relative: tbt_ms current 564.00 vs baseline 286.50 (+96.9%)
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 7620.00 exceeds threshold 4000; Relative: tbt_ms current 424.00 vs baseline 311.50 (+36.1%)
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 6745.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 7512.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 8415.00 exceeds threshold 4000; Relative: lcp_ms current 8415.00 vs baseline 6920.00 (+21.6%)
-- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 8597.00 exceeds threshold 4000; Relative: lcp_ms current 8597.00 vs baseline 6920.00 (+24.2%)
-- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 8356.00 exceeds threshold 4000; Relative: lcp_ms current 8356.00 vs baseline 6920.00 (+20.8%); Relative: tbt_ms current 404.00 vs baseline 321.00 (+25.9%)
+- FAIL https://www.fullsession.io/solutions/growth-marketing/ (mobile): Absolute: tbt_ms = 683.00 exceeds threshold 600; Relative: lcp_ms current 3099.00 vs baseline 2392.50 (+29.5%); Relative: tbt_ms current 683.00 vs baseline 301.00 (+126.9%)
+- REGRESSION https://www.fullsession.io/solutions/growth-marketing/ (mobile): Relative: lcp_ms current 3012.00 vs baseline 2392.50 (+25.9%); Relative: tbt_ms current 406.00 vs baseline 301.00 (+34.9%)
+- REGRESSION https://www.fullsession.io/solutions/growth-marketing/ (mobile): Relative: lcp_ms current 3294.00 vs baseline 2392.50 (+37.7%); Relative: tbt_ms current 464.00 vs baseline 301.00 (+54.2%)
+- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 6791.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 6645.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 6806.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 6594.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 7348.00 exceeds threshold 4000; Relative: tbt_ms current 408.00 vs baseline 328.50 (+24.2%)
+- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 7177.00 exceeds threshold 4000
