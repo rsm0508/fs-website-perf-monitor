@@ -1,7 +1,6 @@
 # Regressions detected
 
-Ran at 2026-04-24T10:12:27.005Z
+Ran at 2026-04-24T11:45:53.671Z
 
-- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 5535.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 6436.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Absolute: lcp_ms = 5468.00 exceeds threshold 4000
+- REGRESSION https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Relative: tbt_ms current 464.00 vs baseline 293.00 (+58.4%)
+- REGRESSION https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Relative: tbt_ms current 411.00 vs baseline 293.00 (+40.3%)
