@@ -1,63 +1,51 @@
 {
-  "ran_at": "2026-04-24T08:14:18.377Z",
+  "ran_at": "2026-04-25T07:38:38.459Z",
   "pages_count": 37,
   "posts_count": 233,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/user-behavior-tools/",
-      "tier": "post",
-      "prior": "2026-04-21T08:07:27+00:00",
-      "current": "2026-04-23T12:12:16+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/website-heatmap-tools/",
-      "tier": "post",
-      "prior": "2026-04-20T07:34:40+00:00",
-      "current": "2026-04-23T12:14:34+00:00"
+      "url": "https://www.fullsession.io/product/funnels-conversions/",
+      "tier": "tier0",
+      "prior": "2026-03-23T14:06:07+00:00",
+      "current": "2026-04-24T11:00:25+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/fullstory-competitors/",
       "tier": "post",
-      "prior": "2026-04-21T07:17:20+00:00",
-      "current": "2026-04-23T12:15:41+00:00"
+      "prior": "2026-04-23T12:15:41+00:00",
+      "current": "2026-04-24T10:20:08+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/web-analytics-tools-comparison/",
+      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
       "tier": "post",
-      "prior": "2026-04-23T06:53:08+00:00",
-      "current": "2026-04-23T12:16:05+00:00"
+      "prior": "2026-04-22T07:25:39+00:00",
+      "current": "2026-04-24T10:21:28+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/ux-heatmap-tools/",
+      "url": "https://www.fullsession.io/blog/behavior-analytics/",
       "tier": "post",
-      "prior": "2026-02-04T09:24:30+00:00",
-      "current": "2026-04-24T05:18:14+00:00"
+      "prior": "2026-03-05T10:15:02+00:00",
+      "current": "2026-04-24T10:24:51+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/session-recording-replay-tools/",
+      "url": "https://www.fullsession.io/blog/website-heatmap-tracking/",
       "tier": "post",
-      "prior": "2026-04-15T17:12:21+00:00",
-      "current": "2026-04-24T07:10:49+00:00"
+      "prior": "2025-12-12T09:05:19+00:00",
+      "current": "2026-04-24T10:42:23+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/record-website-visitors/",
+      "url": "https://www.fullsession.io/blog/website-retention-rate/",
       "tier": "post",
-      "prior": "2026-04-07T12:01:09+00:00",
-      "current": "2026-04-24T07:13:53+00:00"
+      "prior": "2026-01-30T10:21:29+00:00",
+      "current": "2026-04-24T11:07:02+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-website-visitor-tracking-software/",
+      "url": "https://www.fullsession.io/blog/user-experience-optimization/",
       "tier": "post",
-      "prior": "2026-04-07T12:03:06+00:00",
-      "current": "2026-04-24T07:19:08+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/hotjar-alternatives/",
-      "tier": "post",
-      "prior": "2026-04-22T09:08:02+00:00",
-      "current": "2026-04-24T07:28:35+00:00"
+      "prior": "2026-03-05T09:15:41+00:00",
+      "current": "2026-04-24T12:21:57+00:00"
     }
   ],
-  "deactivated": 32
+  "deactivated": 0
 }
