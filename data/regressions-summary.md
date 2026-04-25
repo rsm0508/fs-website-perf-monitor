@@ -1,5 +1,5 @@
 # Regressions detected
 
-Ran at 2026-04-24T23:26:28.795Z
+Ran at 2026-04-25T01:06:18.860Z
 
-- REGRESSION https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Relative: tbt_ms current 584.00 vs baseline 375.00 (+55.7%)
+- REGRESSION https://www.fullsession.io/blog/website-heatmap-tracking/ (mobile): Relative: tbt_ms current 458.00 vs baseline 375.00 (+22.1%)
