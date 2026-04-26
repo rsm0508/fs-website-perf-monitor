@@ -1,12 +1,11 @@
 # Regressions detected
 
-Ran at 2026-04-26T18:32:08.217Z
+Ran at 2026-04-26T19:38:01.411Z
 
-- REGRESSION https://www.fullsession.io/blog/digital-customer-experience-trends/ (mobile): Relative: tbt_ms current 391.00 vs baseline 276.50 (+41.4%)
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4193.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/customer-satisfaction-analysis/ (mobile): Absolute: lcp_ms = 4462.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/customer-satisfaction-analysis/ (mobile): Absolute: lcp_ms = 4366.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5913.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 8071.00 exceeds threshold 4000; Relative: lcp_ms current 8071.00 vs baseline 6628.00 (+21.8%)
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5158.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/scroll-maps/ (mobile): Absolute: lcp_ms = 4654.00 exceeds threshold 4000
+- REGRESSION https://www.fullsession.io/blog/digital-customer-experience-trends/ (mobile): Relative: tbt_ms current 316.00 vs baseline 257.50 (+22.7%)
+- REGRESSION https://www.fullsession.io/blog/digital-customer-experience-trends/ (mobile): Relative: cls current 0.01 vs baseline 0.00 (+162.1%)
+- REGRESSION https://www.fullsession.io/product/feedback/ (mobile): Relative: tbt_ms current 365.00 vs baseline 266.00 (+37.2%)
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4192.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 6099.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5208.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 7492.00 exceeds threshold 4000; Relative: lcp_ms current 7492.00 vs baseline 6006.00 (+24.7%); Relative: tbt_ms current 400.00 vs baseline 277.00 (+44.4%); Relative: cls current 0.00 vs baseline 0.00 (+20.2%)
