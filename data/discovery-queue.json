@@ -1,51 +1,8 @@
 {
-  "ran_at": "2026-04-25T07:38:38.459Z",
+  "ran_at": "2026-04-26T07:48:28.779Z",
   "pages_count": 37,
   "posts_count": 233,
   "new": [],
-  "changed": [
-    {
-      "url": "https://www.fullsession.io/product/funnels-conversions/",
-      "tier": "tier0",
-      "prior": "2026-03-23T14:06:07+00:00",
-      "current": "2026-04-24T11:00:25+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/fullstory-competitors/",
-      "tier": "post",
-      "prior": "2026-04-23T12:15:41+00:00",
-      "current": "2026-04-24T10:20:08+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
-      "tier": "post",
-      "prior": "2026-04-22T07:25:39+00:00",
-      "current": "2026-04-24T10:21:28+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/behavior-analytics/",
-      "tier": "post",
-      "prior": "2026-03-05T10:15:02+00:00",
-      "current": "2026-04-24T10:24:51+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/website-heatmap-tracking/",
-      "tier": "post",
-      "prior": "2025-12-12T09:05:19+00:00",
-      "current": "2026-04-24T10:42:23+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/website-retention-rate/",
-      "tier": "post",
-      "prior": "2026-01-30T10:21:29+00:00",
-      "current": "2026-04-24T11:07:02+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/user-experience-optimization/",
-      "tier": "post",
-      "prior": "2026-03-05T09:15:41+00:00",
-      "current": "2026-04-24T12:21:57+00:00"
-    }
-  ],
+  "changed": [],
   "deactivated": 0
 }
