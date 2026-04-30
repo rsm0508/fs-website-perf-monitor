@@ -1,32 +1,26 @@
 {
-  "ran_at": "2026-04-29T08:28:48.460Z",
+  "ran_at": "2026-04-30T08:32:00.694Z",
   "pages_count": 37,
   "posts_count": 233,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-microsoft-clarity/",
+      "url": "https://www.fullsession.io/blog/mixpanel-vs-amplitude/",
       "tier": "post",
-      "prior": "2026-04-22T13:20:57+00:00",
-      "current": "2026-04-28T10:03:06+00:00"
+      "prior": "2026-04-28T06:06:13+00:00",
+      "current": "2026-04-29T13:13:19+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/heap-alternatives/",
+      "url": "https://www.fullsession.io/blog/mixpanel-vs-google-analytics/",
       "tier": "post",
-      "prior": "2026-04-28T05:49:40+00:00",
-      "current": "2026-04-28T10:05:50+00:00"
+      "prior": "2026-04-28T06:05:30+00:00",
+      "current": "2026-04-29T13:14:21+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-real-user-monitoring-tools/",
+      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
       "tier": "post",
-      "prior": "2026-01-30T10:27:39+00:00",
-      "current": "2026-04-28T11:31:08+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/does-hotjar-slow-down-my-site/",
-      "tier": "post",
-      "prior": "2026-04-20T06:30:08+00:00",
-      "current": "2026-04-29T07:47:01+00:00"
+      "prior": "2026-04-23T07:32:14+00:00",
+      "current": "2026-04-29T13:46:01+00:00"
     }
   ],
   "deactivated": 0
