@@ -1,26 +1,44 @@
 {
-  "ran_at": "2026-04-30T08:32:00.694Z",
+  "ran_at": "2026-05-01T08:23:48.311Z",
   "pages_count": 37,
   "posts_count": 233,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/mixpanel-vs-amplitude/",
+      "url": "https://www.fullsession.io/blog/amplitude-alternatives/",
       "tier": "post",
-      "prior": "2026-04-28T06:06:13+00:00",
-      "current": "2026-04-29T13:13:19+00:00"
+      "prior": "2026-04-28T06:07:19+00:00",
+      "current": "2026-05-01T06:26:28+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/mixpanel-vs-google-analytics/",
+      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
       "tier": "post",
-      "prior": "2026-04-28T06:05:30+00:00",
-      "current": "2026-04-29T13:14:21+00:00"
+      "prior": "2026-04-22T07:30:42+00:00",
+      "current": "2026-05-01T06:53:44+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
+      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
       "tier": "post",
-      "prior": "2026-04-23T07:32:14+00:00",
-      "current": "2026-04-29T13:46:01+00:00"
+      "prior": "2026-04-28T05:55:13+00:00",
+      "current": "2026-05-01T06:59:13+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/saas-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-04-07T11:08:40+00:00",
+      "current": "2026-05-01T07:20:55+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-marketing-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-04-28T06:16:21+00:00",
+      "current": "2026-05-01T07:22:27+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-optimization-tools/",
+      "tier": "post",
+      "prior": "2026-03-19T11:30:15+00:00",
+      "current": "2026-05-01T07:23:25+00:00"
     }
   ],
   "deactivated": 0
