@@ -1,44 +1,38 @@
 {
-  "ran_at": "2026-05-01T08:23:48.311Z",
+  "ran_at": "2026-05-02T07:54:56.823Z",
   "pages_count": 37,
   "posts_count": 233,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/amplitude-alternatives/",
+      "url": "https://www.fullsession.io/blog/demographic-questions-for-survey/",
       "tier": "post",
-      "prior": "2026-04-28T06:07:19+00:00",
-      "current": "2026-05-01T06:26:28+00:00"
+      "prior": "2026-01-30T06:45:47+00:00",
+      "current": "2026-05-01T09:57:50+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/best-nps-software/",
       "tier": "post",
-      "prior": "2026-04-22T07:30:42+00:00",
-      "current": "2026-05-01T06:53:44+00:00"
+      "prior": "2026-03-23T13:26:36+00:00",
+      "current": "2026-05-01T10:27:37+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/nps-software/",
       "tier": "post",
-      "prior": "2026-04-28T05:55:13+00:00",
-      "current": "2026-05-01T06:59:13+00:00"
+      "prior": "2026-04-07T12:13:04+00:00",
+      "current": "2026-05-01T10:27:50+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/saas-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/content-design/",
       "tier": "post",
-      "prior": "2026-04-07T11:08:40+00:00",
-      "current": "2026-05-01T07:20:55+00:00"
+      "prior": "2026-03-02T13:27:28+00:00",
+      "current": "2026-05-01T11:15:26+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-marketing-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/mobile-analytics/",
       "tier": "post",
-      "prior": "2026-04-28T06:16:21+00:00",
-      "current": "2026-05-01T07:22:27+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/website-optimization-tools/",
-      "tier": "post",
-      "prior": "2026-03-19T11:30:15+00:00",
-      "current": "2026-05-01T07:23:25+00:00"
+      "prior": "2026-04-07T12:22:38+00:00",
+      "current": "2026-05-01T11:20:47+00:00"
     }
   ],
   "deactivated": 0
