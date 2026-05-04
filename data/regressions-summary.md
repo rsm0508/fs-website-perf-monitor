@@ -1,41 +1,18 @@
 # Regressions detected
 
-Ran at 2026-05-04T05:11:41.288Z
+Ran at 2026-05-04T05:36:51.798Z
 
-- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4045.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4171.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4086.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/conversion-rate-optimization-tools/ (mobile): Absolute: lcp_ms = 7468.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/conversion-rate-optimization-tools/ (mobile): Absolute: lcp_ms = 4528.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/conversion-rate-optimization-tools/ (mobile): Absolute: lcp_ms = 7539.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/survey-question-examples/ (mobile): Absolute: lcp_ms = 4857.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/survey-question-examples/ (mobile): Absolute: lcp_ms = 4507.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/survey-question-examples/ (mobile): Absolute: lcp_ms = 4883.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 4593.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 4124.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 6987.00 exceeds threshold 4000; Relative: lcp_ms current 6987.00 vs baseline 4134.50 (+69.0%); Relative: tbt_ms current 391.00 vs baseline 247.50 (+58.0%)
-- FAIL https://www.fullsession.io/blog/website-retention-rate/ (mobile): Absolute: lcp_ms = 5191.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-retention-rate/ (mobile): Absolute: lcp_ms = 4096.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-retention-rate/ (mobile): Absolute: lcp_ms = 4553.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/product-usage-analytics-software/ (mobile): Absolute: lcp_ms = 4443.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/product-usage-analytics-software/ (mobile): Absolute: lcp_ms = 4836.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/product-usage-analytics-software/ (mobile): Absolute: lcp_ms = 4868.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4055.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4083.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 6894.00 exceeds threshold 4000; Relative: lcp_ms current 6894.00 vs baseline 4130.50 (+66.9%); Relative: tbt_ms current 338.00 vs baseline 242.00 (+39.7%)
-- FAIL https://www.fullsession.io/blog/website-relaunch/ (mobile): Absolute: lcp_ms = 4297.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-relaunch/ (mobile): Absolute: lcp_ms = 4243.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/website-relaunch/ (mobile): Absolute: lcp_ms = 4886.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/how-to-read-a-heatmap/ (mobile): Absolute: lcp_ms = 4995.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/how-to-read-a-heatmap/ (mobile): Absolute: lcp_ms = 5762.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/how-to-read-a-heatmap/ (mobile): Absolute: lcp_ms = 4589.00 exceeds threshold 4000; Relative: tbt_ms current 424.00 vs baseline 328.50 (+29.1%)
-- FAIL https://www.fullsession.io/blog/google-analytics-vs-amplitude/ (mobile): Absolute: lcp_ms = 5168.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/google-analytics-vs-amplitude/ (mobile): Absolute: lcp_ms = 4460.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/google-analytics-vs-amplitude/ (mobile): Absolute: lcp_ms = 4054.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/mouseflow-vs-vwo/ (mobile): Absolute: lcp_ms = 4245.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/mouseflow-vs-vwo/ (mobile): Absolute: lcp_ms = 4172.00 exceeds threshold 4000; Relative: tbt_ms current 374.00 vs baseline 273.50 (+36.7%)
-- FAIL https://www.fullsession.io/blog/customer-satisfaction-analysis/ (mobile): Absolute: lcp_ms = 4429.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/customer-satisfaction-analysis/ (mobile): Absolute: lcp_ms = 4470.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5557.00 exceeds threshold 4000; Relative: cls current 0.00 vs baseline 0.00 (+20.2%)
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5553.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5100.00 exceeds threshold 4000; Relative: cls current 0.00 vs baseline 0.00 (+20.2%)
+- REGRESSION https://www.fullsession.io/ (mobile): Relative: tbt_ms current 360.00 vs baseline 262.50 (+37.1%); Relative: cls current 0.01 vs baseline 0.00 (+199.7%)
+- REGRESSION https://www.fullsession.io/ (desktop): Relative: tbt_ms current 16.00 vs baseline 12.00 (+33.3%)
+- REGRESSION https://www.fullsession.io/solutions/customer-success/ (desktop): Relative: tbt_ms current 27.00 vs baseline 15.50 (+74.2%)
+- FAIL https://www.fullsession.io/solutions/plg-activation/ (mobile): Absolute: lcp_ms = 4027.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/solutions/growth-marketing/ (mobile): Absolute: lcp_ms = 4219.00 exceeds threshold 4000; Relative: tbt_ms current 302.00 vs baseline 250.50 (+20.6%)
+- REGRESSION https://www.fullsession.io/solutions/high-stakes-forms/ (desktop): Relative: tbt_ms current 23.00 vs baseline 14.00 (+64.3%)
+- REGRESSION https://www.fullsession.io/solutions/user-onboarding/ (desktop): Relative: tbt_ms current 16.00 vs baseline 12.50 (+28.0%)
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4284.00 exceeds threshold 4000; Relative: tbt_ms current 356.00 vs baseline 253.00 (+40.7%)
+- REGRESSION https://www.fullsession.io/solutions/engineering-qa/ (desktop): Relative: tbt_ms current 17.00 vs baseline 12.00 (+41.7%)
+- REGRESSION https://www.fullsession.io/book-a-demo/ (desktop): Relative: tbt_ms current 39.00 vs baseline 30.50 (+27.9%)
+- FAIL https://www.fullsession.io/product/session-replay/ (mobile): Absolute: lcp_ms = 4131.00 exceeds threshold 4000; Relative: lcp_ms current 4131.00 vs baseline 3349.00 (+23.4%)
+- REGRESSION https://www.fullsession.io/product/lift-ai/ (desktop): Relative: tbt_ms current 34.00 vs baseline 12.50 (+172.0%)
+- REGRESSION https://www.fullsession.io/product/heatmaps/ (mobile): Relative: cls current 0.13 vs baseline 0.04 (+214.1%)
+- REGRESSION https://www.fullsession.io/product/ (desktop): Relative: tbt_ms current 26.00 vs baseline 12.50 (+108.0%)
