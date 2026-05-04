@@ -1,8 +1,48 @@
 {
-  "ran_at": "2026-05-03T08:12:42.314Z",
+  "ran_at": "2026-05-04T08:40:26.267Z",
   "pages_count": 37,
-  "posts_count": 233,
-  "new": [],
-  "changed": [],
+  "posts_count": 235,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/telegram-nudes/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-free-plan/",
+      "tier": "post"
+    }
+  ],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
+      "tier": "post",
+      "prior": "2026-04-27T14:08:23+00:00",
+      "current": "2026-05-04T07:17:59+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/userzoom-vs-usertesting/",
+      "tier": "post",
+      "prior": "2026-04-07T12:29:08+00:00",
+      "current": "2026-05-04T07:34:56+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-review/",
+      "tier": "post",
+      "prior": "2026-04-22T08:02:46+00:00",
+      "current": "2026-05-04T07:35:10+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-click-tracking-software/",
+      "tier": "post",
+      "prior": "2026-04-27T12:12:21+00:00",
+      "current": "2026-05-04T07:35:27+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/smartlook-alternatives/",
+      "tier": "post",
+      "prior": "2026-04-07T11:00:14+00:00",
+      "current": "2026-05-04T07:37:06+00:00"
+    }
+  ],
   "deactivated": 0
 }
