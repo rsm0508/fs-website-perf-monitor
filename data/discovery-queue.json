@@ -1,219 +1,183 @@
 {
-  "ran_at": "2026-05-05T08:21:53.421Z",
-  "pages_count": 37,
-  "posts_count": 235,
+  "ran_at": "2026-05-07T08:47:23.572Z",
+  "pages_count": 35,
+  "posts_count": 233,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/session-recording-replay-tools/",
-      "tier": "post",
-      "prior": "2026-04-24T07:10:49+00:00",
-      "current": "2026-05-04T10:53:42+00:00"
+      "url": "https://www.fullsession.io/",
+      "tier": "tier0",
+      "prior": "2026-04-22T13:38:53+00:00",
+      "current": "2026-05-06T07:49:50+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/website-heatmap-tools/",
-      "tier": "post",
-      "prior": "2026-04-23T12:14:34+00:00",
-      "current": "2026-05-04T10:56:05+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/best-ux-research-tools/",
-      "tier": "post",
-      "prior": "2026-03-05T09:58:34+00:00",
-      "current": "2026-05-04T10:57:44+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/behavior-analytics-saas/",
-      "tier": "post",
-      "prior": "2026-01-29T14:34:04+00:00",
-      "current": "2026-05-04T11:05:35+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/digital-experience-analytics/",
-      "tier": "post",
-      "prior": "2026-03-24T13:25:20+00:00",
-      "current": "2026-05-04T11:11:47+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/click-tracking/",
-      "tier": "post",
-      "prior": "2026-04-07T12:20:08+00:00",
-      "current": "2026-05-04T11:14:34+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/customer-insight-software/",
-      "tier": "post",
-      "prior": "2026-03-26T11:25:59+00:00",
-      "current": "2026-05-04T11:19:41+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-05-01T06:59:13+00:00",
-      "current": "2026-05-04T11:22:02+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/rage-clicks/",
-      "tier": "post",
-      "prior": "2026-03-24T11:27:32+00:00",
-      "current": "2026-05-04T11:24:30+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-05-01T06:53:44+00:00",
-      "current": "2026-05-04T11:26:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/session-recording-replay/",
-      "tier": "post",
-      "prior": "2026-04-21T07:57:39+00:00",
-      "current": "2026-05-04T11:31:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/choose-session-replay-web-performance/",
-      "tier": "post",
-      "prior": "2026-02-25T09:59:33+00:00",
-      "current": "2026-05-04T11:36:39+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/behavior-analytics/",
-      "tier": "post",
-      "prior": "2026-04-24T10:24:51+00:00",
-      "current": "2026-05-04T11:45:01+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/record-website-visitors/",
-      "tier": "post",
-      "prior": "2026-04-24T07:13:53+00:00",
-      "current": "2026-05-04T11:46:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/mouseflow-alternative/",
-      "tier": "post",
-      "prior": "2026-04-22T07:47:31+00:00",
-      "current": "2026-05-04T11:50:01+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/lucky-orange-alternatives/",
-      "tier": "post",
-      "prior": "2026-03-31T10:26:24+00:00",
-      "current": "2026-05-04T11:51:54+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/hotjar-alternatives/",
-      "tier": "post",
-      "prior": "2026-04-27T11:56:55+00:00",
-      "current": "2026-05-04T11:59:53+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/smartlook-alternatives/",
-      "tier": "post",
-      "prior": "2026-05-04T07:37:06+00:00",
-      "current": "2026-05-05T06:04:18+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/fullstory-competitors/",
-      "tier": "post",
-      "prior": "2026-04-24T10:20:08+00:00",
-      "current": "2026-05-05T06:05:19+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
-      "tier": "post",
-      "prior": "2026-05-04T07:17:59+00:00",
-      "current": "2026-05-05T06:16:25+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/best-click-tracking-software/",
-      "tier": "post",
-      "prior": "2026-05-04T07:35:27+00:00",
-      "current": "2026-05-05T06:16:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/userzoom-vs-usertesting/",
-      "tier": "post",
-      "prior": "2026-05-04T07:34:56+00:00",
-      "current": "2026-05-05T06:16:45+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/hotjar-free-plan/",
-      "tier": "post",
-      "prior": "2026-05-04T06:09:57+00:00",
-      "current": "2026-05-05T06:25:09+00:00"
+      "url": "https://www.fullsession.io/compare/fullsession-vs-logrocket/",
+      "tier": "core",
+      "prior": "2026-04-07T10:09:31+00:00",
+      "current": "2026-05-05T17:06:54+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/market-segmentation-tools/",
       "tier": "post",
-      "prior": "2026-03-03T09:26:38+00:00",
-      "current": "2026-05-05T06:52:46+00:00"
+      "prior": "2026-05-05T06:52:46+00:00",
+      "current": "2026-05-05T11:15:24+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/ux-analytics-tool/",
       "tier": "post",
-      "prior": "2026-04-22T07:52:43+00:00",
-      "current": "2026-05-05T06:53:23+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/product-adoption/",
-      "tier": "post",
-      "prior": "2026-04-07T11:34:44+00:00",
-      "current": "2026-05-05T06:54:48+00:00"
+      "prior": "2026-05-05T06:53:23+00:00",
+      "current": "2026-05-05T11:15:46+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/user-research-interviews/",
       "tier": "post",
-      "prior": "2026-03-03T05:53:40+00:00",
-      "current": "2026-05-05T06:55:22+00:00"
+      "prior": "2026-05-05T06:55:22+00:00",
+      "current": "2026-05-05T11:18:23+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/open-ended-questions/",
       "tier": "post",
-      "prior": "2026-01-30T06:45:52+00:00",
-      "current": "2026-05-05T06:57:41+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/client-satisfaction-questionnaire/",
-      "tier": "post",
-      "prior": "2026-03-23T12:19:48+00:00",
-      "current": "2026-05-05T06:58:28+00:00"
+      "prior": "2026-05-05T06:57:41+00:00",
+      "current": "2026-05-05T11:20:09+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/best-analytics-software-for-ecommerce/",
       "tier": "post",
-      "prior": "2026-04-28T06:17:27+00:00",
-      "current": "2026-05-05T06:59:06+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/questionnaire-vs-survey/",
-      "tier": "post",
-      "prior": "2026-03-02T13:26:05+00:00",
-      "current": "2026-05-05T06:59:54+00:00"
+      "prior": "2026-05-05T06:59:06+00:00",
+      "current": "2026-05-05T11:21:39+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/qualitative-vs-quantitative-data/",
       "tier": "post",
-      "prior": "2026-03-06T13:06:12+00:00",
-      "current": "2026-05-05T07:00:20+00:00"
+      "prior": "2026-05-05T07:00:20+00:00",
+      "current": "2026-05-05T11:22:47+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/survey-question-examples/",
+      "url": "https://www.fullsession.io/blog/best-ux-research-tools/",
       "tier": "post",
-      "prior": "2026-01-30T06:47:33+00:00",
-      "current": "2026-05-05T07:00:52+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/how-to-test-product-market-fit/",
-      "tier": "post",
-      "prior": "2026-04-07T12:32:24+00:00",
-      "current": "2026-05-05T07:01:18+00:00"
+      "prior": "2026-05-04T10:57:44+00:00",
+      "current": "2026-05-05T12:56:36+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/customer-data-management/",
       "tier": "post",
-      "prior": "2026-03-23T12:16:36+00:00",
-      "current": "2026-05-05T07:01:44+00:00"
+      "prior": "2026-05-05T07:01:44+00:00",
+      "current": "2026-05-06T06:21:30+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/real-time-customer-analytics/",
+      "tier": "post",
+      "prior": "2026-04-28T05:56:22+00:00",
+      "current": "2026-05-06T06:26:26+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/survey-question-examples/",
+      "tier": "post",
+      "prior": "2026-05-05T07:00:52+00:00",
+      "current": "2026-05-06T06:27:31+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-test-product-market-fit/",
+      "tier": "post",
+      "prior": "2026-05-05T07:01:18+00:00",
+      "current": "2026-05-06T06:28:41+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/client-satisfaction-questionnaire/",
+      "tier": "post",
+      "prior": "2026-05-05T06:58:28+00:00",
+      "current": "2026-05-06T06:30:15+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/survey-monkey-alternatives/",
+      "tier": "post",
+      "prior": "2026-03-05T10:08:57+00:00",
+      "current": "2026-05-06T06:32:20+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-persona-research/",
+      "tier": "post",
+      "prior": "2026-04-07T13:44:16+00:00",
+      "current": "2026-05-06T06:34:28+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/macro-conversion/",
+      "tier": "post",
+      "prior": "2026-03-02T13:25:27+00:00",
+      "current": "2026-05-06T06:35:38+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/in-app-feedback/",
+      "tier": "post",
+      "prior": "2026-03-02T13:24:03+00:00",
+      "current": "2026-05-06T06:36:34+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/questionnaire-vs-survey/",
+      "tier": "post",
+      "prior": "2026-05-05T06:59:54+00:00",
+      "current": "2026-05-06T06:38:07+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-satisfaction-analysis/",
+      "tier": "post",
+      "prior": "2026-01-29T09:40:57+00:00",
+      "current": "2026-05-06T06:39:42+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/exit-rate-vs-bounce-rate/",
+      "tier": "post",
+      "prior": "2026-01-30T07:08:39+00:00",
+      "current": "2026-05-06T06:42:10+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/demographic-questions-for-survey/",
+      "tier": "post",
+      "prior": "2026-05-01T09:57:50+00:00",
+      "current": "2026-05-06T07:00:06+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-recording-replay/",
+      "tier": "post",
+      "prior": "2026-05-04T11:31:33+00:00",
+      "current": "2026-05-06T09:20:17+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/25-website-optimization-tools-to-boost-site-performance-by-100/",
+      "tier": "post",
+      "prior": "2026-02-05T12:05:57+00:00",
+      "current": "2026-05-06T09:40:44+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-free-plan/",
+      "tier": "post",
+      "prior": "2026-05-05T06:25:09+00:00",
+      "current": "2026-05-06T10:15:31+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-click-tracking-software/",
+      "tier": "post",
+      "prior": "2026-05-05T06:16:33+00:00",
+      "current": "2026-05-06T10:17:09+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/smartlook-alternatives/",
+      "tier": "post",
+      "prior": "2026-05-05T06:04:18+00:00",
+      "current": "2026-05-06T10:19:12+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
+      "tier": "post",
+      "prior": "2026-05-05T06:16:25+00:00",
+      "current": "2026-05-06T11:33:15+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/userzoom-vs-usertesting/",
+      "tier": "post",
+      "prior": "2026-05-05T06:16:45+00:00",
+      "current": "2026-05-06T11:40:17+00:00"
     }
   ],
-  "deactivated": 0
+  "deactivated": 4
 }
