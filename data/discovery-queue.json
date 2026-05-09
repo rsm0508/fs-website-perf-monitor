@@ -1,159 +1,309 @@
 {
-  "ran_at": "2026-05-08T07:55:34.718Z",
+  "ran_at": "2026-05-09T08:11:28.749Z",
   "pages_count": 34,
   "posts_count": 231,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/hotjar-review/",
-      "tier": "post",
-      "prior": "2026-05-04T07:35:10+00:00",
-      "current": "2026-05-07T11:41:59+00:00"
+      "url": "https://www.fullsession.io/compare/fullsession-vs-fullstory/",
+      "tier": "core",
+      "prior": "2026-03-18T17:31:32+00:00",
+      "current": "2026-05-08T10:50:43+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-get-more-conversions-on-shopify/",
-      "tier": "post",
-      "prior": "2026-04-07T11:37:16+00:00",
-      "current": "2026-05-07T12:00:23+00:00"
+      "url": "https://www.fullsession.io/mobile-session-replay/",
+      "tier": "core",
+      "prior": "2026-03-23T14:03:33+00:00",
+      "current": "2026-05-08T10:51:00+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-05-04T11:26:33+00:00",
-      "current": "2026-05-07T12:18:22+00:00"
+      "url": "https://www.fullsession.io/product/heatmaps/",
+      "tier": "tier0",
+      "prior": "2026-03-23T14:05:53+00:00",
+      "current": "2026-05-08T10:51:37+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-website-monitoring-tools/",
-      "tier": "post",
-      "prior": "2025-12-17T10:08:39+00:00",
-      "current": "2026-05-07T12:25:15+00:00"
+      "url": "https://www.fullsession.io/book-a-demo/",
+      "tier": "tier0",
+      "prior": "2026-03-17T17:06:52+00:00",
+      "current": "2026-05-08T10:54:46+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/decibel-insight-vs-hotjar/",
+      "url": "https://www.fullsession.io/blog/session-recording-replay-tools/",
       "tier": "post",
-      "prior": "2026-04-27T11:30:44+00:00",
-      "current": "2026-05-07T12:26:37+00:00"
+      "prior": "2026-05-04T10:53:42+00:00",
+      "current": "2026-05-08T07:57:57+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg-vs-mouseflow-vs-fullstory/",
+      "url": "https://www.fullsession.io/blog/website-heatmap-tools/",
       "tier": "post",
-      "prior": "2026-04-27T14:04:10+00:00",
-      "current": "2026-05-07T12:27:15+00:00"
+      "prior": "2026-05-04T10:56:05+00:00",
+      "current": "2026-05-08T07:58:06+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
+      "url": "https://www.fullsession.io/blog/behavior-analytics/",
       "tier": "post",
-      "prior": "2026-04-29T13:46:01+00:00",
-      "current": "2026-05-07T12:27:48+00:00"
+      "prior": "2026-05-04T11:45:01+00:00",
+      "current": "2026-05-08T07:58:50+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-read-a-heatmap/",
+      "url": "https://www.fullsession.io/blog/digital-experience-analytics/",
       "tier": "post",
-      "prior": "2026-01-30T06:52:02+00:00",
-      "current": "2026-05-07T12:28:12+00:00"
+      "prior": "2026-05-04T11:11:47+00:00",
+      "current": "2026-05-08T07:59:33+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/ux-analytics-tool/",
+      "url": "https://www.fullsession.io/blog/click-tracking/",
       "tier": "post",
-      "prior": "2026-05-05T11:15:46+00:00",
-      "current": "2026-05-07T12:28:37+00:00"
+      "prior": "2026-05-04T11:14:34+00:00",
+      "current": "2026-05-08T07:59:43+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/ai-interpretation-layer-saas-survives/",
+      "url": "https://www.fullsession.io/blog/customer-insight-software/",
       "tier": "post",
-      "prior": "2026-04-09T19:31:48+00:00",
-      "current": "2026-05-07T13:35:30+00:00"
+      "prior": "2026-05-04T11:19:41+00:00",
+      "current": "2026-05-08T08:00:15+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/fullstory-competitors/",
+      "url": "https://www.fullsession.io/blog/in-app-feedback/",
       "tier": "post",
-      "prior": "2026-05-05T06:05:19+00:00",
-      "current": "2026-05-07T13:40:29+00:00"
+      "prior": "2026-05-06T06:36:34+00:00",
+      "current": "2026-05-08T09:07:23+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/customer-experience-analysis/",
+      "url": "https://www.fullsession.io/blog/lucky-orange-vs-hotjar/",
       "tier": "post",
-      "prior": "2026-04-07T11:45:30+00:00",
-      "current": "2026-05-08T05:53:06+00:00"
+      "prior": "2026-04-23T07:23:45+00:00",
+      "current": "2026-05-08T09:08:15+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-bigcommerce/",
+      "url": "https://www.fullsession.io/blog/customer-experience-analytics-software-evaluation/",
       "tier": "post",
-      "prior": "2025-12-15T13:06:52+00:00",
-      "current": "2026-05-08T06:14:20+00:00"
+      "prior": "2026-03-06T06:33:40+00:00",
+      "current": "2026-05-08T09:09:24+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-shopify/",
+      "url": "https://www.fullsession.io/blog/customer-feedback-collection-tools/",
       "tier": "post",
-      "prior": "2025-12-15T13:08:21+00:00",
-      "current": "2026-05-08T06:18:30+00:00"
+      "prior": "2026-03-23T13:35:34+00:00",
+      "current": "2026-05-08T09:12:13+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-wix/",
+      "url": "https://www.fullsession.io/blog/does-hotjar-slow-down-my-site/",
       "tier": "post",
-      "prior": "2025-12-15T13:09:00+00:00",
-      "current": "2026-05-08T06:19:20+00:00"
+      "prior": "2026-04-29T07:47:01+00:00",
+      "current": "2026-05-08T09:13:13+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-on-wordpress/",
+      "url": "https://www.fullsession.io/blog/event-tracking-tools/",
       "tier": "post",
-      "prior": "2025-12-17T11:23:52+00:00",
-      "current": "2026-05-08T06:20:47+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/how-to-install-fullsession-script-on-your-website/",
-      "tier": "post",
-      "prior": "2026-01-19T11:35:14+00:00",
-      "current": "2026-05-08T07:23:05+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-microsoft-clarity/",
-      "tier": "post",
-      "prior": "2026-04-28T10:03:06+00:00",
-      "current": "2026-05-08T07:30:16+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/quantify-revenue-loss-from-friction-heatmaps/",
-      "tier": "post",
-      "prior": "2026-03-18T07:23:04+00:00",
-      "current": "2026-05-08T07:34:59+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/lucky-orange-alternatives/",
-      "tier": "post",
-      "prior": "2026-05-04T11:51:54+00:00",
-      "current": "2026-05-08T07:45:02+00:00"
+      "prior": "2026-03-02T13:29:38+00:00",
+      "current": "2026-05-08T09:17:07+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/hotjar-alternatives/",
       "tier": "post",
-      "prior": "2026-05-04T11:59:53+00:00",
-      "current": "2026-05-08T07:45:36+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/session-replay-appointment-booking-issues/",
-      "tier": "post",
-      "prior": "2026-03-02T11:01:30+00:00",
-      "current": "2026-05-08T07:48:06+00:00"
+      "prior": "2026-05-08T07:45:36+00:00",
+      "current": "2026-05-08T09:17:40+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/mouseflow-vs-vwo/",
       "tier": "post",
-      "prior": "2026-04-07T11:46:05+00:00",
-      "current": "2026-05-08T07:49:55+00:00"
+      "prior": "2026-05-08T07:49:55+00:00",
+      "current": "2026-05-08T09:22:05+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/product-analytics-decision-making-system/",
+      "url": "https://www.fullsession.io/blog/product-usage-analytics-software/",
       "tier": "post",
-      "prior": "2026-02-06T12:16:23+00:00",
-      "current": "2026-05-08T07:50:41+00:00"
+      "prior": "2026-03-05T09:55:14+00:00",
+      "current": "2026-05-08T09:23:25+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/ux-analytics-metrics-to-product-decisions/",
+      "url": "https://www.fullsession.io/blog/smartlook-vs-hotjar/",
       "tier": "post",
-      "prior": "2026-02-06T12:13:23+00:00",
-      "current": "2026-05-08T07:54:12+00:00"
+      "prior": "2026-04-27T11:18:12+00:00",
+      "current": "2026-05-08T09:33:16+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-testing-vs-usability-testing/",
+      "tier": "post",
+      "prior": "2026-04-07T11:52:03+00:00",
+      "current": "2026-05-08T09:35:05+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavioral-analysis-software/",
+      "tier": "post",
+      "prior": "2026-04-07T11:42:07+00:00",
+      "current": "2026-05-08T09:36:20+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-customer-journey-analytics-software/",
+      "tier": "post",
+      "prior": "2026-04-28T05:53:21+00:00",
+      "current": "2026-05-08T09:37:10+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-ecommerce-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-04-28T05:41:36+00:00",
+      "current": "2026-05-08T09:38:52+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-website-monitoring-tools/",
+      "tier": "post",
+      "prior": "2026-05-07T12:25:15+00:00",
+      "current": "2026-05-08T09:39:45+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-tracking/",
+      "tier": "post",
+      "prior": "2026-04-07T13:45:38+00:00",
+      "current": "2026-05-08T09:43:03+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-alternatives-to-google-analytics/",
+      "tier": "post",
+      "prior": "2026-01-20T11:07:09+00:00",
+      "current": "2026-05-08T09:43:51+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mobile-vs-desktop-heatmaps-why-it-matters/",
+      "tier": "post",
+      "prior": "2026-04-07T07:02:56+00:00",
+      "current": "2026-05-08T09:44:49+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/checkout-conversion-benchmarks-interpretation/",
+      "tier": "post",
+      "prior": "2026-03-03T12:27:46+00:00",
+      "current": "2026-05-08T09:45:52+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-insurance-claims-drop-off/",
+      "tier": "post",
+      "prior": "2026-03-06T06:28:11+00:00",
+      "current": "2026-05-08T10:04:00+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/session-replay-optimization-integration-qa/",
+      "tier": "post",
+      "prior": "2026-03-06T06:31:51+00:00",
+      "current": "2026-05-08T10:04:13+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/user-onboarding-best-practices-prioritization/",
+      "tier": "post",
+      "prior": "2026-02-11T09:56:19+00:00",
+      "current": "2026-05-08T10:04:30+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/increase-form-completion-rate-framework/",
+      "tier": "post",
+      "prior": "2026-04-06T14:31:24+00:00",
+      "current": "2026-05-08T10:05:16+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/conversion-funnel-analysis-workflow/",
+      "tier": "post",
+      "prior": "2026-02-03T13:32:32+00:00",
+      "current": "2026-05-08T10:05:29+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/top-website-feedback-tools-marketing-agencies/",
+      "tier": "post",
+      "prior": "2026-02-04T10:22:23+00:00",
+      "current": "2026-05-08T10:05:42+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/choose-saas-analytics-tools-without-overlap/",
+      "tier": "post",
+      "prior": "2026-02-02T12:02:30+00:00",
+      "current": "2026-05-08T10:06:32+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-alternatives/",
+      "tier": "post",
+      "prior": "2026-02-02T10:22:35+00:00",
+      "current": "2026-05-08T10:08:28+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavior-analytics-saas/",
+      "tier": "post",
+      "prior": "2026-05-04T11:05:35+00:00",
+      "current": "2026-05-08T10:09:00+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-experience-analytics-completion-rate/",
+      "tier": "post",
+      "prior": "2026-03-03T12:27:22+00:00",
+      "current": "2026-05-08T10:09:41+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-vs-fullsession-time-to-fix/",
+      "tier": "post",
+      "prior": "2026-03-03T12:28:08+00:00",
+      "current": "2026-05-08T10:12:09+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/rbac-for-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-01-29T13:24:25+00:00",
+      "current": "2026-05-08T10:12:30+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmap-analysis-for-landing-pages/",
+      "tier": "post",
+      "prior": "2026-01-29T13:24:25+00:00",
+      "current": "2026-05-08T10:12:44+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavioral-analytics-for-activation/",
+      "tier": "post",
+      "prior": "2026-03-18T10:04:49+00:00",
+      "current": "2026-05-08T10:20:39+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/introducing-lift-ai/",
+      "tier": "post",
+      "prior": "2026-03-03T22:46:38+00:00",
+      "current": "2026-05-08T10:20:49+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/hotjar-vs-fullsession-saas/",
+      "tier": "post",
+      "prior": "2026-01-29T13:24:27+00:00",
+      "current": "2026-05-08T10:21:02+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmaps-vs-session-replay/",
+      "tier": "post",
+      "prior": "2026-03-09T05:45:12+00:00",
+      "current": "2026-05-08T10:21:15+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-click-tracking-software/",
+      "tier": "post",
+      "prior": "2026-05-06T10:17:09+00:00",
+      "current": "2026-05-08T10:21:37+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heap-alternatives/",
+      "tier": "post",
+      "prior": "2026-04-28T10:05:50+00:00",
+      "current": "2026-05-08T10:21:55+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/scroll-maps/",
+      "tier": "post",
+      "prior": "2026-04-23T08:00:10+00:00",
+      "current": "2026-05-08T11:00:03+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/quantify-revenue-loss-from-friction-heatmaps/",
+      "tier": "post",
+      "prior": "2026-05-08T07:34:59+00:00",
+      "current": "2026-05-08T11:10:21+00:00"
     }
   ],
-  "deactivated": 3
+  "deactivated": 0
 }
