@@ -1,10 +1,10 @@
 # Regressions detected
 
-Ran at 2026-05-09T23:41:12.604Z
+Ran at 2026-05-10T01:34:59.188Z
 
-- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4309.00 exceeds threshold 4000; Absolute: tbt_ms = 791.00 exceeds threshold 600; Relative: tbt_ms current 791.00 vs baseline 206.50 (+283.1%)
-- REGRESSION https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Relative: cls current 0.00 vs baseline 0.00 (+61.7%)
-- REGRESSION https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Relative: tbt_ms current 415.00 vs baseline 206.50 (+101.0%); Relative: cls current 0.00 vs baseline 0.00 (+61.7%)
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 4052.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 4052.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 4054.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4336.00 exceeds threshold 4000; Relative: tbt_ms current 261.00 vs baseline 214.00 (+22.0%)
+- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4327.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4310.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5173.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 4978.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5037.00 exceeds threshold 4000; Relative: tbt_ms current 271.00 vs baseline 200.00 (+35.5%)
