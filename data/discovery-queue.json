@@ -1,8 +1,13 @@
 {
-  "ran_at": "2026-05-10T08:25:43.320Z",
+  "ran_at": "2026-05-11T09:56:08.954Z",
   "pages_count": 34,
-  "posts_count": 231,
-  "new": [],
+  "posts_count": 232,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/7-best-tools-for-web-session-replay-in-ecommerce-2026/",
+      "tier": "post"
+    }
+  ],
   "changed": [],
   "deactivated": 0
 }
