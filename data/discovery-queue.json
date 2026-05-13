@@ -1,17 +1,21 @@
 {
-  "ran_at": "2026-05-12T08:52:44.552Z",
+  "ran_at": "2026-05-13T08:58:33.015Z",
   "pages_count": 34,
-  "posts_count": 233,
+  "posts_count": 236,
   "new": [
     {
-      "url": "https://www.fullsession.io/blog/close-ended-question-examples/",
+      "url": "https://www.fullsession.io/blog/ecommerce-session-recording-replay/",
       "tier": "post"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-tools-for-web-session-replay-in-ecommerce/",
+      "url": "https://www.fullsession.io/blog/ecommerce-heatmaps/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-heatmap-software-for-ecommerce/",
       "tier": "post"
     }
   ],
   "changed": [],
-  "deactivated": 1
+  "deactivated": 0
 }
