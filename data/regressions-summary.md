@@ -1,26 +1,26 @@
 # Regressions detected
 
-Ran at 2026-05-17T15:05:54.660Z
+Ran at 2026-05-17T16:00:58.929Z
 
-- FAIL https://www.fullsession.io/ (mobile): Absolute: tbt_ms = 1652.00 exceeds threshold 600; Relative: tbt_ms current 1652.00 vs baseline 310.00 (+432.9%)
-- REGRESSION https://www.fullsession.io/solutions/customer-success/ (desktop): Relative: lcp_ms current 1028.00 vs baseline 811.00 (+26.8%); Relative: tbt_ms current 18.00 vs baseline 14.50 (+24.1%)
-- REGRESSION https://www.fullsession.io/solutions/growth-marketing/ (desktop): Relative: tbt_ms current 18.00 vs baseline 14.00 (+28.6%)
-- REGRESSION https://www.fullsession.io/solutions/high-stakes-forms/ (mobile): Relative: tbt_ms current 357.00 vs baseline 290.00 (+23.1%)
-- REGRESSION https://www.fullsession.io/solutions/checkout-recovery/ (mobile): Relative: tbt_ms current 276.00 vs baseline 229.50 (+20.3%)
-- REGRESSION https://www.fullsession.io/solutions/checkout-recovery/ (desktop): Relative: tbt_ms current 19.00 vs baseline 13.00 (+46.2%)
-- REGRESSION https://www.fullsession.io/solutions/product-management/ (mobile): Relative: tbt_ms current 348.00 vs baseline 262.50 (+32.6%)
-- REGRESSION https://www.fullsession.io/solutions/product-management/ (desktop): Relative: tbt_ms current 20.00 vs baseline 16.00 (+25.0%)
-- REGRESSION https://www.fullsession.io/solutions/user-onboarding/ (desktop): Relative: tbt_ms current 20.00 vs baseline 14.00 (+42.9%)
-- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4281.00 exceeds threshold 4000; Relative: tbt_ms current 297.00 vs baseline 218.00 (+36.2%)
-- REGRESSION https://www.fullsession.io/solutions/engineering-qa/ (desktop): Relative: tbt_ms current 19.00 vs baseline 13.00 (+46.2%)
-- REGRESSION https://www.fullsession.io/book-a-demo/ (mobile): Relative: tbt_ms current 467.00 vs baseline 362.00 (+29.0%)
-- REGRESSION https://www.fullsession.io/book-a-demo/ (desktop): Relative: tbt_ms current 37.00 vs baseline 26.00 (+42.3%)
-- REGRESSION https://www.fullsession.io/product/session-replay/ (mobile): Relative: tbt_ms current 336.00 vs baseline 219.50 (+53.1%)
-- REGRESSION https://www.fullsession.io/product/session-replay/ (desktop): Relative: tbt_ms current 19.00 vs baseline 14.50 (+31.0%)
-- REGRESSION https://www.fullsession.io/product/heatmaps/ (desktop): Relative: tbt_ms current 25.00 vs baseline 13.00 (+92.3%)
-- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 4137.00 exceeds threshold 4000; Relative: tbt_ms current 409.00 vs baseline 221.50 (+84.7%)
-- REGRESSION https://www.fullsession.io/product/funnels-conversions/ (desktop): Relative: tbt_ms current 19.00 vs baseline 11.50 (+65.2%)
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4278.00 exceeds threshold 4000; Relative: tbt_ms current 332.00 vs baseline 255.50 (+29.9%)
-- REGRESSION https://www.fullsession.io/product/feedback/ (desktop): Relative: tbt_ms current 20.00 vs baseline 11.50 (+73.9%)
-- REGRESSION https://www.fullsession.io/pricing/ (mobile): Relative: tbt_ms current 485.00 vs baseline 393.00 (+23.4%)
-- REGRESSION https://www.fullsession.io/pricing/ (desktop): Relative: tbt_ms current 47.00 vs baseline 27.50 (+70.9%)
+- REGRESSION https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Relative: tbt_ms current 280.00 vs baseline 202.50 (+38.3%)
+- REGRESSION https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/ (mobile): Relative: tbt_ms current 321.00 vs baseline 264.50 (+21.4%)
+- REGRESSION https://www.fullsession.io/product/errors-alerts/ (desktop): Relative: tbt_ms current 67.00 vs baseline 15.00 (+346.7%); Relative: cls current 0.03 vs baseline 0.00 (+2794.4%)
+- REGRESSION https://www.fullsession.io/product/errors-alerts/ (desktop): Relative: tbt_ms current 23.00 vs baseline 15.00 (+53.3%)
+- FAIL https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Absolute: lcp_ms = 4134.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5103.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5129.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5127.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/how-to-get-more-conversions-on-shopify/ (mobile): Absolute: lcp_ms = 4041.00 exceeds threshold 4000
+- REGRESSION https://www.fullsession.io/solutions/customer-success/ (desktop): Relative: tbt_ms current 22.00 vs baseline 14.50 (+51.7%)
+- REGRESSION https://www.fullsession.io/solutions/growth-marketing/ (desktop): Relative: tbt_ms current 25.00 vs baseline 14.50 (+72.4%)
+- REGRESSION https://www.fullsession.io/solutions/checkout-recovery/ (mobile): Relative: tbt_ms current 286.00 vs baseline 210.50 (+35.9%)
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4317.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4355.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4355.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 4146.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 4131.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/funnels-conversions/ (mobile): Absolute: lcp_ms = 4129.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4280.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4278.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4899.00 exceeds threshold 4000; Relative: lcp_ms current 4899.00 vs baseline 3997.00 (+22.6%)
+- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4129.00 exceeds threshold 4000
