@@ -1,8 +1,20 @@
 {
-  "ran_at": "2026-05-17T08:37:07.308Z",
+  "ran_at": "2026-05-18T10:20:29.681Z",
   "pages_count": 34,
-  "posts_count": 237,
-  "new": [],
-  "changed": [],
+  "posts_count": 238,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/how-to-increase-revenue-per-visitor/",
+      "tier": "post"
+    }
+  ],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/",
+      "tier": "tier0",
+      "prior": "2026-05-06T07:49:50+00:00",
+      "current": "2026-05-18T09:07:05+00:00"
+    }
+  ],
   "deactivated": 0
 }
