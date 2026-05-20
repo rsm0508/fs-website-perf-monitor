@@ -1,19 +1,19 @@
 # Regressions detected
 
-Ran at 2026-05-19T22:55:47.645Z
+Ran at 2026-05-20T01:43:53.387Z
 
-- FAIL https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Absolute: lcp_ms = 4538.00 exceeds threshold 4000; Absolute: tbt_ms = 1739.00 exceeds threshold 600; Relative: tbt_ms current 1739.00 vs baseline 247.00 (+604.0%)
-- FAIL https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Absolute: lcp_ms = 4136.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Absolute: lcp_ms = 4505.00 exceeds threshold 4000; Absolute: tbt_ms = 1606.00 exceeds threshold 600; Relative: tbt_ms current 1606.00 vs baseline 260.00 (+517.7%)
+- FAIL https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Absolute: lcp_ms = 4129.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/qualitative-questions-examples/ (mobile): Absolute: lcp_ms = 4145.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4284.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4280.00 exceeds threshold 4000
 - FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4279.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4291.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4298.00 exceeds threshold 4000; Relative: tbt_ms current 274.00 vs baseline 224.50 (+22.0%)
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5104.00 exceeds threshold 4000; Relative: cls current 0.00 vs baseline 0.00 (+50.7%)
-- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5103.00 exceeds threshold 4000; Relative: cls current 0.00 vs baseline 0.00 (+50.7%)
 - FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5104.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 6163.00 exceeds threshold 4000; Relative: lcp_ms current 6163.00 vs baseline 5104.50 (+20.7%); Relative: cls current 0.00 vs baseline 0.00 (+50.7%)
+- FAIL https://www.fullsession.io/blog/behavior-analytics/ (mobile): Absolute: lcp_ms = 5137.00 exceeds threshold 4000
 - FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4356.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4357.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4361.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/best-website-monitoring-tools/ (mobile): Absolute: lcp_ms = 4141.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/best-website-monitoring-tools/ (mobile): Absolute: lcp_ms = 4139.00 exceeds threshold 4000; Relative: tbt_ms current 271.00 vs baseline 215.50 (+25.8%)
-- FAIL https://www.fullsession.io/blog/best-website-monitoring-tools/ (mobile): Absolute: lcp_ms = 4131.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/rage-clicks/ (mobile): Absolute: lcp_ms = 7205.00 exceeds threshold 4000; Relative: lcp_ms current 7205.00 vs baseline 3418.00 (+110.8%); Relative: tbt_ms current 377.00 vs baseline 209.00 (+80.4%)
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4378.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4363.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/best-website-monitoring-tools/ (mobile): Absolute: lcp_ms = 4150.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/best-website-monitoring-tools/ (mobile): Absolute: lcp_ms = 4139.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/best-website-monitoring-tools/ (mobile): Absolute: lcp_ms = 4076.00 exceeds threshold 4000
