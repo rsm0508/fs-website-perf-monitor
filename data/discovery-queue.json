@@ -1,8 +1,20 @@
 {
-  "ran_at": "2026-05-26T10:18:23.982Z",
+  "ran_at": "2026-05-27T10:16:37.367Z",
   "pages_count": 34,
-  "posts_count": 238,
-  "new": [],
-  "changed": [],
+  "posts_count": 239,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-cro-audit/",
+      "tier": "post"
+    }
+  ],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/mouseflow-alternative/",
+      "tier": "post",
+      "prior": "2026-05-04T11:50:01+00:00",
+      "current": "2026-05-26T13:18:12+00:00"
+    }
+  ],
   "deactivated": 0
 }
