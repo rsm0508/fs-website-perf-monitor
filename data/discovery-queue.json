@@ -1,19 +1,31 @@
 {
-  "ran_at": "2026-05-27T10:16:37.367Z",
+  "ran_at": "2026-05-28T10:19:43.327Z",
   "pages_count": 34,
-  "posts_count": 239,
+  "posts_count": 240,
   "new": [
     {
-      "url": "https://www.fullsession.io/blog/ecommerce-cro-audit/",
+      "url": "https://www.fullsession.io/blog/best-tools-for-tracking-ecommerce-errors/",
       "tier": "post"
     }
   ],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/mouseflow-alternative/",
+      "url": "https://www.fullsession.io/",
+      "tier": "tier0",
+      "prior": "2026-05-18T09:07:05+00:00",
+      "current": "2026-05-28T10:14:33+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/posthog-alternatives-and-competitors/",
       "tier": "post",
-      "prior": "2026-05-04T11:50:01+00:00",
-      "current": "2026-05-26T13:18:12+00:00"
+      "prior": "2026-04-28T06:04:08+00:00",
+      "current": "2026-05-27T10:50:45+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/userzoom-vs-usertesting/",
+      "tier": "post",
+      "prior": "2026-05-06T11:40:17+00:00",
+      "current": "2026-05-28T10:06:20+00:00"
     }
   ],
   "deactivated": 0
