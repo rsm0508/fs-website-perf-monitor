@@ -1,9 +1,7 @@
 # Regressions detected
 
-Ran at 2026-05-29T06:16:58.773Z
+Ran at 2026-05-29T08:10:54.532Z
 
-- FAIL https://www.fullsession.io/ (mobile): Absolute: tbt_ms = 1525.00 exceeds threshold 600; Relative: tbt_ms current 1525.00 vs baseline 280.50 (+443.7%)
-- REGRESSION https://www.fullsession.io/ (desktop): Relative: tbt_ms current 35.00 vs baseline 15.50 (+125.8%)
-- REGRESSION https://www.fullsession.io/solutions/user-onboarding/ (desktop): Relative: tbt_ms current 18.00 vs baseline 13.50 (+33.3%)
-- REGRESSION https://www.fullsession.io/book-a-demo/ (desktop): Relative: tbt_ms current 34.00 vs baseline 24.00 (+41.7%)
-- REGRESSION https://www.fullsession.io/product/heatmaps/ (desktop): Relative: tbt_ms current 26.00 vs baseline 14.00 (+85.7%)
+- FAIL https://www.fullsession.io/blog/pendo-competitors-and-alternatives/ (mobile): Absolute: tbt_ms = 1889.00 exceeds threshold 600; Relative: tbt_ms current 1889.00 vs baseline 245.00 (+671.0%)
+- FAIL https://www.fullsession.io/blog/mouse-heatmap/ (mobile): Absolute: lcp_ms = 4359.00 exceeds threshold 4000; Relative: lcp_ms current 4359.00 vs baseline 3260.00 (+33.7%)
+- REGRESSION https://www.fullsession.io/blog/best-cro-software/ (mobile): Relative: tbt_ms current 410.00 vs baseline 340.00 (+20.6%)
