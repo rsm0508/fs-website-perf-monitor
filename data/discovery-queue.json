@@ -1,8 +1,24 @@
 {
-  "ran_at": "2026-05-29T10:10:08.647Z",
+  "ran_at": "2026-05-30T08:40:29.115Z",
   "pages_count": 34,
-  "posts_count": 240,
-  "new": [],
-  "changed": [],
+  "posts_count": 242,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-ux/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-ecommerce-checkout-optimization-software/",
+      "tier": "post"
+    }
+  ],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/contentsquare-competitors/",
+      "tier": "post",
+      "prior": "2026-04-28T06:09:08+00:00",
+      "current": "2026-05-29T10:46:47+00:00"
+    }
+  ],
   "deactivated": 0
 }
