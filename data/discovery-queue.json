@@ -1,26 +1,26 @@
 {
-  "ran_at": "2026-06-01T11:55:35.063Z",
+  "ran_at": "2026-06-02T10:54:56.089Z",
   "pages_count": 34,
   "posts_count": 242,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/event-tracking-tools/",
-      "tier": "post",
-      "prior": "2026-05-08T09:17:07+00:00",
-      "current": "2026-06-01T09:08:12+00:00"
+      "url": "https://www.fullsession.io/pricing/",
+      "tier": "tier0",
+      "prior": "2026-04-22T16:16:04+00:00",
+      "current": "2026-06-01T19:29:06+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-website-visitor-tracking-software/",
+      "url": "https://www.fullsession.io/blog/heatmap-insights-checkout-optimization/",
       "tier": "post",
-      "prior": "2026-04-24T07:19:08+00:00",
-      "current": "2026-06-01T09:10:57+00:00"
+      "prior": "2026-01-29T13:24:26+00:00",
+      "current": "2026-06-02T10:52:24+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-analytics-software-for-ecommerce/",
+      "url": "https://www.fullsession.io/blog/ecommerce-conversion-optimization-system/",
       "tier": "post",
-      "prior": "2026-05-05T11:21:39+00:00",
-      "current": "2026-06-01T09:35:55+00:00"
+      "prior": "2026-03-18T11:21:06+00:00",
+      "current": "2026-06-02T10:54:53+00:00"
     }
   ],
   "deactivated": 0
