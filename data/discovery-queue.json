@@ -1,62 +1,79 @@
 {
-  "ran_at": "2026-06-10T10:22:14.992Z",
+  "ran_at": "2026-06-11T10:57:29.204Z",
   "pages_count": 35,
-  "posts_count": 245,
-  "new": [],
+  "posts_count": 246,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/saas-customer-journey/",
+      "tier": "post"
+    }
+  ],
   "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/cro-marketing/",
+      "tier": "post",
+      "prior": "2026-04-28T06:12:05+00:00",
+      "current": "2026-06-10T10:50:20+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/how-to-calculate-conversion-rate/",
+      "tier": "post",
+      "prior": "2026-04-28T06:10:17+00:00",
+      "current": "2026-06-10T10:51:46+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/cro-for-mobile/",
+      "tier": "post",
+      "prior": "2026-04-07T12:18:01+00:00",
+      "current": "2026-06-10T10:53:54+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/onboarding-funnel-drop-off-diagnosis/",
+      "tier": "post",
+      "prior": "2026-01-29T13:24:26+00:00",
+      "current": "2026-06-10T10:55:29+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/form-abandonment/",
+      "tier": "post",
+      "prior": "2026-02-11T05:51:07+00:00",
+      "current": "2026-06-10T10:57:12+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-cro-software/",
+      "tier": "post",
+      "prior": "2026-01-28T18:24:29+00:00",
+      "current": "2026-06-10T11:02:57+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/crazy-egg-competitors/",
+      "tier": "post",
+      "prior": "2026-04-07T11:58:44+00:00",
+      "current": "2026-06-10T11:05:27+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-optimization-tools/",
+      "tier": "post",
+      "prior": "2026-05-01T07:23:25+00:00",
+      "current": "2026-06-10T11:07:52+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heatmaps-and-ab-testing/",
+      "tier": "post",
+      "prior": "2026-04-07T07:07:13+00:00",
+      "current": "2026-06-10T11:12:32+00:00"
+    },
     {
       "url": "https://www.fullsession.io/blog/click-maps/",
       "tier": "post",
-      "prior": "2026-03-23T13:35:59+00:00",
-      "current": "2026-06-09T11:33:01+00:00"
+      "prior": "2026-06-09T11:33:01+00:00",
+      "current": "2026-06-11T09:58:24+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/scroll-maps/",
+      "url": "https://www.fullsession.io/blog/what-is-a-heatmap/",
       "tier": "post",
-      "prior": "2026-05-08T11:00:03+00:00",
-      "current": "2026-06-09T11:34:53+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/mobile-vs-desktop-heatmaps-why-it-matters/",
-      "tier": "post",
-      "prior": "2026-05-08T09:44:49+00:00",
-      "current": "2026-06-09T11:38:15+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/heatmap-analysis-for-landing-pages/",
-      "tier": "post",
-      "prior": "2026-05-08T10:12:44+00:00",
-      "current": "2026-06-09T11:41:16+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/use-heatmaps-to-improve-saas-activation/",
-      "tier": "post",
-      "prior": "2026-03-05T11:34:02+00:00",
-      "current": "2026-06-09T11:42:49+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/session-replay-appointment-booking-issues/",
-      "tier": "post",
-      "prior": "2026-05-08T07:48:06+00:00",
-      "current": "2026-06-09T11:47:03+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/session-replay-insurance-claims-drop-off/",
-      "tier": "post",
-      "prior": "2026-05-08T10:04:00+00:00",
-      "current": "2026-06-09T11:50:36+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/session-recordings-improves-digital-customer-experience/",
-      "tier": "post",
-      "prior": "2026-03-18T09:35:58+00:00",
-      "current": "2026-06-09T11:53:31+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/choose-session-replay-web-performance/",
-      "tier": "post",
-      "prior": "2026-05-04T11:36:39+00:00",
-      "current": "2026-06-09T11:55:15+00:00"
+      "prior": "2026-06-03T10:43:57+00:00",
+      "current": "2026-06-11T10:57:08+00:00"
     }
   ],
   "deactivated": 0
