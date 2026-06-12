@@ -1,79 +1,98 @@
 {
-  "ran_at": "2026-06-11T10:57:29.204Z",
+  "ran_at": "2026-06-12T10:33:02.971Z",
   "pages_count": 35,
   "posts_count": 246,
-  "new": [
-    {
-      "url": "https://www.fullsession.io/blog/saas-customer-journey/",
-      "tier": "post"
-    }
-  ],
+  "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/cro-marketing/",
+      "url": "https://www.fullsession.io/blog/product-analytics/",
       "tier": "post",
-      "prior": "2026-04-28T06:12:05+00:00",
-      "current": "2026-06-10T10:50:20+00:00"
+      "prior": "2026-04-07T11:59:16+00:00",
+      "current": "2026-06-11T11:10:51+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/how-to-calculate-conversion-rate/",
+      "url": "https://www.fullsession.io/blog/user-adoption/",
       "tier": "post",
-      "prior": "2026-04-28T06:10:17+00:00",
-      "current": "2026-06-10T10:51:46+00:00"
+      "prior": "2026-04-07T12:30:30+00:00",
+      "current": "2026-06-11T11:12:15+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/cro-for-mobile/",
+      "url": "https://www.fullsession.io/blog/mixpanel-alternatives/",
       "tier": "post",
-      "prior": "2026-04-07T12:18:01+00:00",
-      "current": "2026-06-10T10:53:54+00:00"
+      "prior": "2026-04-15T06:08:12+00:00",
+      "current": "2026-06-11T11:20:59+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/onboarding-funnel-drop-off-diagnosis/",
+      "url": "https://www.fullsession.io/blog/quantummetric-vs-glassbox/",
       "tier": "post",
-      "prior": "2026-01-29T13:24:26+00:00",
-      "current": "2026-06-10T10:55:29+00:00"
+      "prior": "2026-03-02T12:18:15+00:00",
+      "current": "2026-06-11T11:22:41+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/form-abandonment/",
+      "url": "https://www.fullsession.io/blog/digital-experience-analytics/",
       "tier": "post",
-      "prior": "2026-02-11T05:51:07+00:00",
-      "current": "2026-06-10T10:57:12+00:00"
+      "prior": "2026-05-08T07:59:33+00:00",
+      "current": "2026-06-11T11:25:02+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-cro-software/",
+      "url": "https://www.fullsession.io/blog/digital-experience-monitoring/",
       "tier": "post",
-      "prior": "2026-01-28T18:24:29+00:00",
-      "current": "2026-06-10T11:02:57+00:00"
+      "prior": "2026-04-28T06:22:57+00:00",
+      "current": "2026-06-11T11:29:42+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/crazy-egg-competitors/",
+      "url": "https://www.fullsession.io/blog/behavior-analytics/",
       "tier": "post",
-      "prior": "2026-04-07T11:58:44+00:00",
-      "current": "2026-06-10T11:05:27+00:00"
+      "prior": "2026-05-08T07:58:50+00:00",
+      "current": "2026-06-11T11:36:33+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/website-optimization-tools/",
+      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
       "tier": "post",
-      "prior": "2026-05-01T07:23:25+00:00",
-      "current": "2026-06-10T11:07:52+00:00"
+      "prior": "2026-05-07T12:27:48+00:00",
+      "current": "2026-06-11T11:40:58+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/heatmaps-and-ab-testing/",
+      "url": "https://www.fullsession.io/blog/google-analytics-vs-amplitude/",
       "tier": "post",
-      "prior": "2026-04-07T07:07:13+00:00",
-      "current": "2026-06-10T11:12:32+00:00"
+      "prior": "2026-04-07T11:38:11+00:00",
+      "current": "2026-06-12T09:51:15+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/click-maps/",
+      "url": "https://www.fullsession.io/blog/mixpanel-vs-google-analytics/",
       "tier": "post",
-      "prior": "2026-06-09T11:33:01+00:00",
-      "current": "2026-06-11T09:58:24+00:00"
+      "prior": "2026-04-29T13:14:21+00:00",
+      "current": "2026-06-12T09:53:40+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/what-is-a-heatmap/",
+      "url": "https://www.fullsession.io/blog/saas-analytics-tools/",
       "tier": "post",
-      "prior": "2026-06-03T10:43:57+00:00",
-      "current": "2026-06-11T10:57:08+00:00"
+      "prior": "2026-06-04T10:13:50+00:00",
+      "current": "2026-06-12T09:57:38+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-05-04T11:22:02+00:00",
+      "current": "2026-06-12T10:00:24+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-analytics/",
+      "tier": "post",
+      "prior": "2026-03-20T12:33:45+00:00",
+      "current": "2026-06-12T10:15:54+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/click-tracking/",
+      "tier": "post",
+      "prior": "2026-05-08T07:59:43+00:00",
+      "current": "2026-06-12T10:29:29+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics-decision-making-system/",
+      "tier": "post",
+      "prior": "2026-05-08T07:50:41+00:00",
+      "current": "2026-06-12T10:32:57+00:00"
     }
   ],
   "deactivated": 0
