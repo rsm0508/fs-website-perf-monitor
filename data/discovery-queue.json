@@ -1,98 +1,49 @@
 {
-  "ran_at": "2026-06-12T10:33:02.971Z",
+  "ran_at": "2026-06-13T09:35:41.213Z",
   "pages_count": 35,
-  "posts_count": 246,
-  "new": [],
+  "posts_count": 247,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/saas-user-onboarding/",
+      "tier": "post"
+    }
+  ],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/product-analytics/",
+      "url": "https://www.fullsession.io/blog/user-behavior-tools/",
       "tier": "post",
-      "prior": "2026-04-07T11:59:16+00:00",
-      "current": "2026-06-11T11:10:51+00:00"
+      "prior": "2026-04-27T12:03:18+00:00",
+      "current": "2026-06-12T10:42:30+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/user-adoption/",
+      "url": "https://www.fullsession.io/blog/marketing-analytics/",
       "tier": "post",
-      "prior": "2026-04-07T12:30:30+00:00",
-      "current": "2026-06-11T11:12:15+00:00"
+      "prior": "2026-04-28T06:14:14+00:00",
+      "current": "2026-06-12T10:45:42+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/mixpanel-alternatives/",
+      "url": "https://www.fullsession.io/blog/product-engagement-metrics/",
       "tier": "post",
-      "prior": "2026-04-15T06:08:12+00:00",
-      "current": "2026-06-11T11:20:59+00:00"
+      "prior": "2026-02-23T10:12:10+00:00",
+      "current": "2026-06-12T10:47:38+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/quantummetric-vs-glassbox/",
+      "url": "https://www.fullsession.io/blog/heatmap-analysis-for-landing-pages/",
       "tier": "post",
-      "prior": "2026-03-02T12:18:15+00:00",
-      "current": "2026-06-11T11:22:41+00:00"
+      "prior": "2026-06-09T11:41:16+00:00",
+      "current": "2026-06-12T11:37:33+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/digital-experience-analytics/",
+      "url": "https://www.fullsession.io/blog/scroll-maps/",
       "tier": "post",
-      "prior": "2026-05-08T07:59:33+00:00",
-      "current": "2026-06-11T11:25:02+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/digital-experience-monitoring/",
-      "tier": "post",
-      "prior": "2026-04-28T06:22:57+00:00",
-      "current": "2026-06-11T11:29:42+00:00"
+      "prior": "2026-06-09T11:34:53+00:00",
+      "current": "2026-06-12T11:53:29+00:00"
     },
     {
       "url": "https://www.fullsession.io/blog/behavior-analytics/",
       "tier": "post",
-      "prior": "2026-05-08T07:58:50+00:00",
-      "current": "2026-06-11T11:36:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-mixpanel-vs-contentsquare/",
-      "tier": "post",
-      "prior": "2026-05-07T12:27:48+00:00",
-      "current": "2026-06-11T11:40:58+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/google-analytics-vs-amplitude/",
-      "tier": "post",
-      "prior": "2026-04-07T11:38:11+00:00",
-      "current": "2026-06-12T09:51:15+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/mixpanel-vs-google-analytics/",
-      "tier": "post",
-      "prior": "2026-04-29T13:14:21+00:00",
-      "current": "2026-06-12T09:53:40+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/saas-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-06-04T10:13:50+00:00",
-      "current": "2026-06-12T09:57:38+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-05-04T11:22:02+00:00",
-      "current": "2026-06-12T10:00:24+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/customer-journey-analytics/",
-      "tier": "post",
-      "prior": "2026-03-20T12:33:45+00:00",
-      "current": "2026-06-12T10:15:54+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/click-tracking/",
-      "tier": "post",
-      "prior": "2026-05-08T07:59:43+00:00",
-      "current": "2026-06-12T10:29:29+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/product-analytics-decision-making-system/",
-      "tier": "post",
-      "prior": "2026-05-08T07:50:41+00:00",
-      "current": "2026-06-12T10:32:57+00:00"
+      "prior": "2026-06-11T11:36:33+00:00",
+      "current": "2026-06-12T12:19:52+00:00"
     }
   ],
   "deactivated": 0
