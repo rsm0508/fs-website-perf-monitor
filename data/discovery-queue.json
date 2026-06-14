@@ -1,50 +1,8 @@
 {
-  "ran_at": "2026-06-13T09:35:41.213Z",
+  "ran_at": "2026-06-14T09:57:58.224Z",
   "pages_count": 35,
   "posts_count": 247,
-  "new": [
-    {
-      "url": "https://www.fullsession.io/blog/saas-user-onboarding/",
-      "tier": "post"
-    }
-  ],
-  "changed": [
-    {
-      "url": "https://www.fullsession.io/blog/user-behavior-tools/",
-      "tier": "post",
-      "prior": "2026-04-27T12:03:18+00:00",
-      "current": "2026-06-12T10:42:30+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/marketing-analytics/",
-      "tier": "post",
-      "prior": "2026-04-28T06:14:14+00:00",
-      "current": "2026-06-12T10:45:42+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/product-engagement-metrics/",
-      "tier": "post",
-      "prior": "2026-02-23T10:12:10+00:00",
-      "current": "2026-06-12T10:47:38+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/heatmap-analysis-for-landing-pages/",
-      "tier": "post",
-      "prior": "2026-06-09T11:41:16+00:00",
-      "current": "2026-06-12T11:37:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/scroll-maps/",
-      "tier": "post",
-      "prior": "2026-06-09T11:34:53+00:00",
-      "current": "2026-06-12T11:53:29+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/behavior-analytics/",
-      "tier": "post",
-      "prior": "2026-06-11T11:36:33+00:00",
-      "current": "2026-06-12T12:19:52+00:00"
-    }
-  ],
+  "new": [],
+  "changed": [],
   "deactivated": 0
 }
