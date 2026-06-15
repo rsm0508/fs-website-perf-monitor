@@ -1,8 +1,63 @@
 {
-  "ran_at": "2026-06-14T09:57:58.224Z",
+  "ran_at": "2026-06-15T12:42:01.536Z",
   "pages_count": 35,
   "posts_count": 247,
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/shopify-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-03-18T13:43:11+00:00",
+      "current": "2026-06-15T06:06:16+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-analytics/",
+      "tier": "post",
+      "prior": "2026-06-12T10:15:54+00:00",
+      "current": "2026-06-15T06:08:47+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-ecommerce-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-05-08T09:38:52+00:00",
+      "current": "2026-06-15T06:11:16+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mobile-analytics/",
+      "tier": "post",
+      "prior": "2026-05-01T11:20:47+00:00",
+      "current": "2026-06-15T06:13:41+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/record-website-visitors/",
+      "tier": "post",
+      "prior": "2026-05-04T11:46:33+00:00",
+      "current": "2026-06-15T06:18:54+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-tracking/",
+      "tier": "post",
+      "prior": "2026-04-07T12:05:45+00:00",
+      "current": "2026-06-15T06:21:47+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-tracking/",
+      "tier": "post",
+      "prior": "2026-05-08T09:43:03+00:00",
+      "current": "2026-06-15T06:24:04+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/behavioral-analysis-software/",
+      "tier": "post",
+      "prior": "2026-05-08T09:36:20+00:00",
+      "current": "2026-06-15T06:26:10+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/predictive-customer-analytics/",
+      "tier": "post",
+      "prior": "2026-04-07T11:58:13+00:00",
+      "current": "2026-06-15T06:29:24+00:00"
+    }
+  ],
   "deactivated": 0
 }
