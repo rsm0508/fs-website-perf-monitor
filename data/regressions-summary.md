@@ -1,17 +1,17 @@
 # Regressions detected
 
-Ran at 2026-06-14T21:06:30.395Z
+Ran at 2026-06-15T02:18:43.678Z
 
-- FAIL https://www.fullsession.io/blog/ux-researcher/ (mobile): Absolute: lcp_ms = 5858.00 exceeds threshold 4000; Absolute: tbt_ms = 1529.00 exceeds threshold 600; Relative: lcp_ms current 5858.00 vs baseline 3528.00 (+66.0%); Relative: tbt_ms current 1529.00 vs baseline 336.00 (+355.1%)
-- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4361.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4358.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4811.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4438.00 exceeds threshold 4000; Relative: cls current 0.00 vs baseline 0.00 (+321.8%)
-- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4445.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/ux-researcher/ (mobile): Absolute: lcp_ms = 6550.00 exceeds threshold 4000; Absolute: tbt_ms = 1062.00 exceeds threshold 600; Relative: lcp_ms current 6550.00 vs baseline 3529.50 (+85.6%); Relative: tbt_ms current 1062.00 vs baseline 358.00 (+196.6%)
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4363.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4371.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/solutions/engineering-qa/ (mobile): Absolute: lcp_ms = 4729.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4438.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4741.00 exceeds threshold 4000; Relative: cls current 0.00 vs baseline 0.00 (+321.8%)
 - FAIL https://www.fullsession.io/blog/customer-feedback-loops/ (mobile): Absolute: lcp_ms = 4430.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4224.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4349.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4211.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4138.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4879.00 exceeds threshold 4000
-- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4128.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4278.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4281.00 exceeds threshold 4000; Relative: tbt_ms current 396.00 vs baseline 247.00 (+60.3%)
+- FAIL https://www.fullsession.io/product/feedback/ (mobile): Absolute: lcp_ms = 4284.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4878.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4880.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/pricing/ (mobile): Absolute: lcp_ms = 4881.00 exceeds threshold 4000
