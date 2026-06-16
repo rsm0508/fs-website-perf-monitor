@@ -1,62 +1,74 @@
 {
-  "ran_at": "2026-06-15T12:42:01.536Z",
+  "ran_at": "2026-06-16T11:29:11.360Z",
   "pages_count": 35,
   "posts_count": 247,
   "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/shopify-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/best-tools-for-tracking-ecommerce-errors/",
       "tier": "post",
-      "prior": "2026-03-18T13:43:11+00:00",
-      "current": "2026-06-15T06:06:16+00:00"
+      "prior": "2026-05-27T10:45:57+00:00",
+      "current": "2026-06-16T09:40:05+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/customer-journey-analytics/",
+      "url": "https://www.fullsession.io/blog/best-ecommerce-checkout-optimization-software/",
       "tier": "post",
-      "prior": "2026-06-12T10:15:54+00:00",
-      "current": "2026-06-15T06:08:47+00:00"
+      "prior": "2026-05-29T10:53:10+00:00",
+      "current": "2026-06-16T09:40:39+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/best-ecommerce-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/product-research-tools/",
       "tier": "post",
-      "prior": "2026-05-08T09:38:52+00:00",
-      "current": "2026-06-15T06:11:16+00:00"
+      "prior": "2026-04-07T11:12:19+00:00",
+      "current": "2026-06-16T09:58:05+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/mobile-analytics/",
+      "url": "https://www.fullsession.io/blog/mouseflow-vs-vwo/",
       "tier": "post",
-      "prior": "2026-05-01T11:20:47+00:00",
-      "current": "2026-06-15T06:13:41+00:00"
+      "prior": "2026-05-08T09:22:05+00:00",
+      "current": "2026-06-16T10:12:45+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/record-website-visitors/",
+      "url": "https://www.fullsession.io/blog/smartlook-alternatives/",
       "tier": "post",
-      "prior": "2026-05-04T11:46:33+00:00",
-      "current": "2026-06-15T06:18:54+00:00"
+      "prior": "2026-05-06T10:19:12+00:00",
+      "current": "2026-06-16T10:19:12+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/website-tracking/",
+      "url": "https://www.fullsession.io/blog/best-website-analytics-tools/",
       "tier": "post",
-      "prior": "2026-04-07T12:05:45+00:00",
-      "current": "2026-06-15T06:21:47+00:00"
+      "prior": "2026-03-16T11:59:52+00:00",
+      "current": "2026-06-16T10:26:33+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/customer-journey-tracking/",
+      "url": "https://www.fullsession.io/blog/pendo-competitors-and-alternatives/",
       "tier": "post",
-      "prior": "2026-05-08T09:43:03+00:00",
-      "current": "2026-06-15T06:24:04+00:00"
+      "prior": "2026-05-21T06:45:15+00:00",
+      "current": "2026-06-16T10:29:36+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/behavioral-analysis-software/",
+      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
       "tier": "post",
-      "prior": "2026-05-08T09:36:20+00:00",
-      "current": "2026-06-15T06:26:10+00:00"
+      "prior": "2026-05-07T12:18:22+00:00",
+      "current": "2026-06-16T10:33:21+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/predictive-customer-analytics/",
+      "url": "https://www.fullsession.io/blog/website-optimization-tools/",
       "tier": "post",
-      "prior": "2026-04-07T11:58:13+00:00",
-      "current": "2026-06-15T06:29:24+00:00"
+      "prior": "2026-06-10T11:07:52+00:00",
+      "current": "2026-06-16T10:36:03+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/website-heatmap-tools/",
+      "tier": "post",
+      "prior": "2026-06-03T10:54:43+00:00",
+      "current": "2026-06-16T10:38:04+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/25-website-optimization-tools-to-boost-site-performance-by-100/",
+      "tier": "post",
+      "prior": "2026-05-06T09:40:44+00:00",
+      "current": "2026-06-16T10:45:54+00:00"
     }
   ],
   "deactivated": 0
