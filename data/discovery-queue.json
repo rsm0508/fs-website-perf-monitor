@@ -1,37 +1,86 @@
 {
-  "ran_at": "2026-06-17T11:15:08.905Z",
+  "ran_at": "2026-06-18T10:48:04.707Z",
   "pages_count": 35,
   "posts_count": 248,
-  "new": [
-    {
-      "url": "https://www.fullsession.io/blog/web-analytics-for-product-led-growth-companies/",
-      "tier": "post"
-    }
-  ],
+  "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/product-analytics-tools/",
+      "url": "https://www.fullsession.io/blog/mouseflow-vs-vwo/",
       "tier": "post",
-      "prior": "2026-06-12T10:00:24+00:00",
-      "current": "2026-06-17T09:24:02+00:00"
+      "prior": "2026-06-16T10:12:45+00:00",
+      "current": "2026-06-18T06:21:13+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/event-tracking-tools/",
+      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg/",
       "tier": "post",
-      "prior": "2026-06-01T09:08:12+00:00",
-      "current": "2026-06-17T09:28:04+00:00"
+      "prior": "2026-04-22T13:23:01+00:00",
+      "current": "2026-06-18T06:24:40+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/product-analytics-tools-funnel-analysis/",
+      "url": "https://www.fullsession.io/blog/hotjar-alternatives/",
       "tier": "post",
-      "prior": "2026-06-05T07:06:01+00:00",
-      "current": "2026-06-17T09:30:46+00:00"
+      "prior": "2026-05-08T09:17:40+00:00",
+      "current": "2026-06-18T06:27:21+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/product-adoption/",
+      "url": "https://www.fullsession.io/blog/behavior-analytics-saas/",
       "tier": "post",
-      "prior": "2026-05-05T06:54:48+00:00",
-      "current": "2026-06-17T09:38:43+00:00"
+      "prior": "2026-05-08T10:09:00+00:00",
+      "current": "2026-06-18T06:57:35+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-alternatives/",
+      "tier": "post",
+      "prior": "2026-05-08T10:08:28+00:00",
+      "current": "2026-06-18T07:00:46+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-06-16T10:33:21+00:00",
+      "current": "2026-06-18T07:05:31+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/logrocket-competitors/",
+      "tier": "post",
+      "prior": "2026-05-06T11:33:15+00:00",
+      "current": "2026-06-18T09:23:32+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-real-user-monitoring-tools/",
+      "tier": "post",
+      "prior": "2026-04-28T11:31:08+00:00",
+      "current": "2026-06-18T09:44:26+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/web-analytics-tools-comparison/",
+      "tier": "post",
+      "prior": "2026-04-23T12:16:05+00:00",
+      "current": "2026-06-18T09:45:54+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/heap-alternatives/",
+      "tier": "post",
+      "prior": "2026-05-08T10:21:55+00:00",
+      "current": "2026-06-18T09:52:49+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/smartlook-alternatives/",
+      "tier": "post",
+      "prior": "2026-06-16T10:19:12+00:00",
+      "current": "2026-06-18T10:03:05+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/fullstory-competitors/",
+      "tier": "post",
+      "prior": "2026-05-07T13:40:29+00:00",
+      "current": "2026-06-18T10:18:16+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/userzoom-vs-usertesting/",
+      "tier": "post",
+      "prior": "2026-05-28T10:06:20+00:00",
+      "current": "2026-06-18T10:24:33+00:00"
     }
   ],
   "deactivated": 0
