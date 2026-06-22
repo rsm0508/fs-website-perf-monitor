@@ -1,8 +1,32 @@
 {
-  "ran_at": "2026-06-21T10:09:44.945Z",
+  "ran_at": "2026-06-22T12:27:35.484Z",
   "pages_count": 35,
-  "posts_count": 248,
-  "new": [],
-  "changed": [],
+  "posts_count": 249,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/best-mcp-servers-2026/",
+      "tier": "post"
+    }
+  ],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
+      "tier": "post",
+      "prior": "2026-06-19T11:45:57+00:00",
+      "current": "2026-06-22T09:41:47+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-usage-analytics-software/",
+      "tier": "post",
+      "prior": "2026-05-08T09:23:25+00:00",
+      "current": "2026-06-22T10:02:35+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/product-analytics-tools-funnel-analysis/",
+      "tier": "post",
+      "prior": "2026-06-19T12:03:24+00:00",
+      "current": "2026-06-22T10:05:42+00:00"
+    }
+  ],
   "deactivated": 0
 }
