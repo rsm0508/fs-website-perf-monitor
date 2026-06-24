@@ -1,31 +1,38 @@
 {
-  "ran_at": "2026-06-22T12:27:35.484Z",
+  "ran_at": "2026-06-24T09:52:59.264Z",
   "pages_count": 35,
   "posts_count": 249,
-  "new": [
-    {
-      "url": "https://www.fullsession.io/blog/best-mcp-servers-2026/",
-      "tier": "post"
-    }
-  ],
+  "new": [],
   "changed": [
     {
-      "url": "https://www.fullsession.io/blog/best-digital-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-06-19T11:45:57+00:00",
-      "current": "2026-06-22T09:41:47+00:00"
+      "url": "https://www.fullsession.io/pricing/",
+      "tier": "tier0",
+      "prior": "2026-06-03T16:14:00+00:00",
+      "current": "2026-06-23T20:32:33+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/product-usage-analytics-software/",
+      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg-vs-mouseflow-vs-fullstory/",
       "tier": "post",
-      "prior": "2026-05-08T09:23:25+00:00",
-      "current": "2026-06-22T10:02:35+00:00"
+      "prior": "2026-05-07T12:27:15+00:00",
+      "current": "2026-06-23T06:30:47+00:00"
     },
     {
-      "url": "https://www.fullsession.io/blog/product-analytics-tools-funnel-analysis/",
+      "url": "https://www.fullsession.io/blog/best-website-analytics-tools/",
       "tier": "post",
-      "prior": "2026-06-19T12:03:24+00:00",
-      "current": "2026-06-22T10:05:42+00:00"
+      "prior": "2026-06-16T10:26:33+00:00",
+      "current": "2026-06-23T06:36:57+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-website-visitor-tracking-software/",
+      "tier": "post",
+      "prior": "2026-06-01T09:10:57+00:00",
+      "current": "2026-06-23T06:42:26+00:00"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/best-cro-software/",
+      "tier": "post",
+      "prior": "2026-06-10T11:02:57+00:00",
+      "current": "2026-06-23T06:50:14+00:00"
     }
   ],
   "deactivated": 0
