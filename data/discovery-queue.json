@@ -1,39 +1,13 @@
 {
-  "ran_at": "2026-06-24T09:52:59.264Z",
+  "ran_at": "2026-06-25T09:45:26.400Z",
   "pages_count": 35,
-  "posts_count": 249,
-  "new": [],
-  "changed": [
+  "posts_count": 250,
+  "new": [
     {
-      "url": "https://www.fullsession.io/pricing/",
-      "tier": "tier0",
-      "prior": "2026-06-03T16:14:00+00:00",
-      "current": "2026-06-23T20:32:33+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/hotjar-vs-crazy-egg-vs-mouseflow-vs-fullstory/",
-      "tier": "post",
-      "prior": "2026-05-07T12:27:15+00:00",
-      "current": "2026-06-23T06:30:47+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/best-website-analytics-tools/",
-      "tier": "post",
-      "prior": "2026-06-16T10:26:33+00:00",
-      "current": "2026-06-23T06:36:57+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/best-website-visitor-tracking-software/",
-      "tier": "post",
-      "prior": "2026-06-01T09:10:57+00:00",
-      "current": "2026-06-23T06:42:26+00:00"
-    },
-    {
-      "url": "https://www.fullsession.io/blog/best-cro-software/",
-      "tier": "post",
-      "prior": "2026-06-10T11:02:57+00:00",
-      "current": "2026-06-23T06:50:14+00:00"
+      "url": "https://www.fullsession.io/blog/saas-funnel-analytics/",
+      "tier": "post"
     }
   ],
+  "changed": [],
   "deactivated": 0
 }
