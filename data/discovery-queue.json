@@ -1,8 +1,13 @@
 {
-  "ran_at": "2026-06-28T09:32:13.397Z",
+  "ran_at": "2026-06-29T11:24:30.479Z",
   "pages_count": 35,
-  "posts_count": 250,
-  "new": [],
+  "posts_count": 251,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/contentsquare-acquires-hotjar/",
+      "tier": "post"
+    }
+  ],
   "changed": [],
   "deactivated": 0
 }
