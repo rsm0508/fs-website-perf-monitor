@@ -1,13 +1,15 @@
 {
-  "ran_at": "2026-06-30T10:04:43.057Z",
+  "ran_at": "2026-07-01T10:13:53.457Z",
   "pages_count": 35,
   "posts_count": 252,
-  "new": [
+  "new": [],
+  "changed": [
     {
-      "url": "https://www.fullsession.io/blog/how-to-prioritize-product-roadmap/",
-      "tier": "post"
+      "url": "https://www.fullsession.io/book-a-demo/",
+      "tier": "tier0",
+      "prior": "2026-05-08T10:54:46+00:00",
+      "current": "2026-06-30T19:54:06+00:00"
     }
   ],
-  "changed": [],
   "deactivated": 0
 }
