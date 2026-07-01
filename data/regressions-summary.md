@@ -1,8 +1,5 @@
 # Regressions detected
 
-Ran at 2026-07-01T08:36:31.019Z
+Ran at 2026-07-01T11:01:58.207Z
 
-- FAIL https://www.fullsession.io/blog/nps-detractors/ (mobile): Absolute: tbt_ms = 1346.00 exceeds threshold 600; Relative: tbt_ms current 1346.00 vs baseline 333.00 (+304.2%)
-- FAIL https://www.fullsession.io/blog/customer-feedback-management/ (mobile): Absolute: lcp_ms = 4360.00 exceeds threshold 4000
-- REGRESSION https://www.fullsession.io/blog/product-engagement-metrics/ (mobile): Relative: tbt_ms current 241.00 vs baseline 193.00 (+24.9%)
-- FAIL https://www.fullsession.io/blog/mouseflow-alternative/ (mobile): Absolute: lcp_ms = 4203.00 exceeds threshold 4000
+- FAIL https://www.fullsession.io/book-a-demo/ (mobile): Absolute: tbt_ms = 1521.00 exceeds threshold 600; Relative: lcp_ms current 1945.00 vs baseline 1177.00 (+65.3%); Relative: tbt_ms current 1521.00 vs baseline 354.00 (+329.7%); Relative: total_byte_weight current 898081.00 vs baseline 563915.00 (+59.3%)
