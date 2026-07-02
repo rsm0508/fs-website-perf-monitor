@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-07-01T10:13:53.457Z",
+  "ran_at": "2026-07-02T09:36:33.082Z",
   "pages_count": 35,
   "posts_count": 252,
   "new": [],
@@ -7,8 +7,8 @@
     {
       "url": "https://www.fullsession.io/book-a-demo/",
       "tier": "tier0",
-      "prior": "2026-05-08T10:54:46+00:00",
-      "current": "2026-06-30T19:54:06+00:00"
+      "prior": "2026-06-30T19:54:06+00:00",
+      "current": "2026-07-01T19:25:35+00:00"
     }
   ],
   "deactivated": 0
