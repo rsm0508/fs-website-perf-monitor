@@ -1,8 +1,15 @@
 {
-  "ran_at": "2026-07-09T10:08:40.061Z",
+  "ran_at": "2026-07-10T09:54:18.763Z",
   "pages_count": 35,
   "posts_count": 252,
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/customer-feedback-report/",
+      "tier": "post",
+      "prior": "2026-04-07T12:18:24+00:00",
+      "current": "2026-07-10T08:03:05+00:00"
+    }
+  ],
   "deactivated": 0
 }
