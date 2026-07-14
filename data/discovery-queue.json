@@ -1,8 +1,48 @@
 {
-  "ran_at": "2026-07-13T09:53:55.798Z",
+  "ran_at": "2026-07-14T08:34:19.091Z",
   "pages_count": 35,
-  "posts_count": 252,
-  "new": [],
-  "changed": [],
+  "posts_count": 260,
+  "new": [
+    {
+      "url": "https://www.fullsession.io/blog/ecommerce-conversion-rate-optimization-a-complete-guide-for-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/app-engagement-metrics-how-to-measure-what-actually-keeps-users-coming-back/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/customer-acquisition-cost-cac-how-to-calculate-benchmark-and-lower-it-in-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ai-in-customer-experience-what-actually-works-in-2026-and-what-is-just-hype/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ai-tools-for-advanced-analytics-what-they-actually-do-and-how-to-choose-in-2026/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/ai-in-ux-design-what-it-does-well-where-it-fails-and-how-to-validate-it/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/anscombes-quartet-why-summary-statistics-hide-what-your-users-are-really-doing/",
+      "tier": "post"
+    },
+    {
+      "url": "https://www.fullsession.io/blog/mobile-app-ux-friction-how-to-find-what-users-wont-tell-you/",
+      "tier": "post"
+    }
+  ],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/close-ended-question-examples/",
+      "tier": "post",
+      "prior": "2026-05-11T13:17:05+00:00",
+      "current": "2026-07-14T06:09:48+00:00"
+    }
+  ],
   "deactivated": 0
 }
