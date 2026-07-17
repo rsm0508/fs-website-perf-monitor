@@ -1,8 +1,15 @@
 {
-  "ran_at": "2026-07-16T08:33:20.726Z",
+  "ran_at": "2026-07-17T08:29:21.261Z",
   "pages_count": 36,
   "posts_count": 260,
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/customer-journey-mapping-tools/",
+      "tier": "post",
+      "prior": "2026-04-07T11:39:54+00:00",
+      "current": "2026-07-16T10:01:12+00:00"
+    }
+  ],
   "deactivated": 0
 }
