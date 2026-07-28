@@ -1,8 +1,15 @@
 {
-  "ran_at": "2026-07-27T10:14:17.019Z",
+  "ran_at": "2026-07-28T08:57:10.541Z",
   "pages_count": 36,
   "posts_count": 260,
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "url": "https://www.fullsession.io/blog/qualitative-vs-quantitative-data/",
+      "tier": "post",
+      "prior": "2026-05-05T11:22:47+00:00",
+      "current": "2026-07-28T07:18:54+00:00"
+    }
+  ],
   "deactivated": 0
 }
